@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="99.7089109%" x2="50%" y2="0.776721582%" id="linearGradient-1">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="146.098873%" x2="50%" y2="-45.1596833%" id="linearGradient-2">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="658.140556%" x2="50%" y2="-140.029283%" id="linearGradient-3">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Вход" transform="translate(-1284.000000, -166.000000)" fill-rule="nonzero">
+            <g id="Social_icons" transform="translate(1204.000000, 164.000000)">
+                <g id="instagram" transform="translate(80.000000, 2.000000)">
+                    <path d="M17.5523652,0 L7.44763481,0 C3.34099166,0 0,3.34099166 0,7.44763481 L0,17.5523652 C0,21.6590083 3.34099166,25 7.44763481,25 L17.5523652,25 C21.6590083,25 25,21.6590083 25,17.5523652 L25,7.44763481 C24.9999546,3.34099166 21.658963,0 17.5523652,0 Z M22.4850009,17.5523652 C22.4850009,20.2765619 20.2765619,22.4850009 17.5523652,22.4850009 L7.44763481,22.4850009 C4.72343812,22.4850009 2.51499907,20.2765619 2.51499907,17.5523652 L2.51499907,7.44763481 C2.51499907,4.72339275 4.72343812,2.51499907 7.44763481,2.51499907 L17.5523652,2.51499907 C20.2765619,2.51499907 22.4850009,4.72339275 22.4850009,7.44763481 L22.4850009,17.5523652 Z" id="instagram_Shape_1" fill="url(#linearGradient-1)"></path>
+                    <path d="M12.5,6 C8.91589424,6 6,8.91590447 6,12.4999772 C6,16.0840499 8.91589424,19 12.5,19 C16.0841058,19 19,16.0840955 19,12.4999772 C19,8.91585887 16.0841058,6 12.5,6 Z M12.5,16.4717699 C10.3064547,16.4717699 8.5282668,14.6935758 8.5282668,12.5000228 C8.5282668,10.3064698 10.3065003,8.52827567 12.5,8.52827567 C14.6935453,8.52827567 16.4717332,10.3064698 16.4717332,12.5000228 C16.4717332,14.6935302 14.6934997,16.4717699 12.5,16.4717699 Z" id="instagram_Shape" fill="url(#linearGradient-2)"></path>
+                    <circle id="instagram_Oval" fill="url(#linearGradient-3)" cx="19.5" cy="5.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

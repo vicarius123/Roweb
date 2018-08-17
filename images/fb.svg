@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Вход" transform="translate(-1244.000000, -164.000000)" fill-rule="nonzero">
+            <g id="Social_icons" transform="translate(1204.000000, 164.000000)">
+                <g id="facebook" transform="translate(40.000000, 0.000000)">
+                    <circle id="facebook_Oval" fill="#3B5998" cx="13.4039469" cy="13.4039469" r="13.4039469"></circle>
+                    <path d="M16.7736903,13.9286549 L14.3819204,13.9286549 L14.3819204,22.6909912 L10.7581858,22.6909912 L10.7581858,13.9286549 L9.03472566,13.9286549 L9.03472566,10.8492212 L10.7581858,10.8492212 L10.7581858,8.85647788 C10.7581858,7.43145133 11.4350973,5.20000885 14.414177,5.20000885 L17.0984071,5.21123894 L17.0984071,8.20035398 L15.150823,8.20035398 C14.8313628,8.20035398 14.3821593,8.3599646 14.3821593,9.03974336 L14.3821593,10.8520885 L17.0902832,10.8520885 L16.7736903,13.9286549 Z" id="facebook_Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
