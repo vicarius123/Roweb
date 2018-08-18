@@ -196,6 +196,7 @@ b{
 }
 .new-fluid{
   padding: 44px 100px 0px 100px;
+  height: 100%;
 }
 .blind-selector{
   font-family: 'Museo Cyrl 700';
@@ -224,12 +225,94 @@ b{
   line-height: 1.39;
 }
 .reg-phone {
-    margin-top: 8px;
-    margin-bottom:22px;
+  margin-top: 8px;
+  margin-bottom:22px;
 }
 .soc-reg{
   margin:0 -5px;
 }
 .soc-reg a{
   padding: 0 5px;
+}
+.login-form{
+  max-width: 310px;
+  margin: 0 auto;
+  width: 100%;
+}
+.login-ctn{
+  height: 100%;
+  align-items: center;
+  margin-top: -155px;
+}
+#myTab{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+#myTab a{
+  font-family: 'Museo Cyrl 500';
+  font-size: 24px;
+}
+#myTab a.active{
+  text-decoration: underline;
+}
+.main-reg input {
+  width: 100%;
+  font-size: 12px;
+  font-family: 'Museo Sans Cyrl 300';
+  border-radius: 20px;
+  border: solid 1px #ffffff;
+  padding: 12px 27px;
+  background: transparent;
+  color: #fff;
+}
+.main-reg input::-webkit-input-placeholder{
+  color:#fff !important;
+}
+input[type=checkbox].css-checkbox {
+  position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+}
+
+input[type=checkbox].css-checkbox + label.css-label {
+  padding-left: 23px;
+  height: 18px;
+  display: inline-block;
+  line-height: 18px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  font-size: 15px;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #fff;
+  margin:0;
+}
+
+input[type=checkbox].css-checkbox:checked + label.css-label {
+  background-position: 0 -18px;
+}
+label.css-label {
+  background-image:url('/images/check-new.png');
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.password-forgot a{
+  font-size: 15px;
+  display: block;
+}
+.align-center{
+  align-items: center;
+}
+button.btn-new.btn-green {
+  width: 100%;
+  font-size: 16px;
+  color: #ffffff;
+  border-radius: 20px;
+  background-color: #abcd45;
+  border: 0;
+  padding: 10px;
 }
