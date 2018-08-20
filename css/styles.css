@@ -179,7 +179,9 @@
 }
 html,body{
   font-family: 'Museo Sans Cyrl 300';
-  font-size:16px;
+  line-height: 1.49;
+  font-size: 15px;
+  height: 100%;
 }
 *{
   -webkit-font-smoothing: antialiased;
@@ -190,9 +192,11 @@ b{
 /**Registration part**/
 .main-reg{
   width: 100%;
-  height: 100vh;
   background: url(/images/bg-reg.jpg) center no-repeat;
   background-size: cover;
+  padding-bottom: 121px;
+  min-height: 700px;
+  height: 100%;
 }
 .new-fluid{
   padding: 44px 100px 0px 100px;
@@ -240,9 +244,11 @@ b{
   width: 100%;
 }
 .login-ctn{
-  height: 100%;
+  height: calc(100% - 121px - 155px);
   align-items: center;
-  margin-top: -155px;
+  position:relative;
+  z-index: 10;
+  min-height: 300px;
 }
 #myTab{
   display: flex;
@@ -253,10 +259,15 @@ b{
 #myTab a{
   font-family: 'Museo Cyrl 500';
   font-size: 24px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 1px;
+  border-bottom: solid 2px transparent;
 }
 #myTab a.active{
-  text-decoration: underline;
+  border-bottom: solid 2px #ffffff;
 }
+
 .main-reg input {
   width: 100%;
   font-size: 12px;
@@ -315,4 +326,29 @@ button.btn-new.btn-green {
   background-color: #abcd45;
   border: 0;
   padding: 10px;
+}
+h1{
+  font-family: 'Museo Cyrl 500';
+  font-size: 24px;
+}
+.main-reg header{
+  position:relative;
+}
+.foo-reg{
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 40px;
+  margin-top: -121px;
+  position:relative;
+}
+.foo-reg a{
+  color: #4a90e2;
+  font-size: 16px;
+  text-decoration: underline;
+}
+.foo-logo-reg{
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
