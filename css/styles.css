@@ -194,13 +194,15 @@ b{
   width: 100%;
   background: url(/images/bg-reg.jpg) center no-repeat;
   background-size: cover;
-  padding-bottom: 121px;
-  min-height: 700px;
+  min-height: 750px;
   height: 100%;
 }
 .new-fluid{
   padding: 44px 100px 0px 100px;
   height: 100%;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
 }
 .blind-selector{
   font-family: 'Museo Cyrl 700';
@@ -244,7 +246,7 @@ b{
   width: 100%;
 }
 .login-ctn{
-  height: calc(100% - 121px - 155px);
+  height: 100%;
   align-items: center;
   position:relative;
   z-index: 10;
@@ -327,9 +329,12 @@ button.btn-new.btn-green {
   border: 0;
   padding: 10px;
 }
-h1{
+h1, .h1{
   font-family: 'Museo Cyrl 500';
   font-size: 24px;
+}
+.nomargin{
+  margin:0;
 }
 .main-reg header{
   position:relative;
@@ -339,16 +344,194 @@ h1{
   right: 0;
   bottom: 0;
   padding-bottom: 40px;
-  margin-top: -121px;
   position:relative;
+  font-size: 16px;
 }
 .foo-reg a{
   color: #4a90e2;
-  font-size: 16px;
   text-decoration: underline;
 }
 .foo-logo-reg{
   position: absolute;
   bottom: 0;
+  right: -100px;
+}
+
+/***** INNER PAGE FRAME*****/
+
+.main-fluid {
+  padding-left: 60px;
+  padding-right: 30px;
+}
+.col-logo {
+  max-width: 340px;
+}
+header.main-header {
+  height: 100px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
+  position: fixed;
+  top: 0;
   right: 0;
+  left: 0;
+  z-index: 11;
+}
+.flex-middle{
+  align-items: center;
+}
+.main-header > .row{
+  height:100%;
+}
+select.contract-selector {
+  border-radius: 20px;
+  border: solid 2px #f55f68;
+  -webkit-appearance: none;
+  padding: 4px 25px 4px 16px;
+  font-size: 17px;
+  background: url(/images/sel-arrow.svg)no-repeat center;
+  background-position-x: 95%;
+}
+.contract-select b{
+  font-family: 'Museo Sans Cyrl 700';
+  font-size: 16px;
+  padding-right:5px
+}
+.contract-select{
+  flex:1;
+}
+.tool-nav{
+  margin:0 -15px;
+  display: inline-block;
+  padding-left: 45px;
+}
+.tool-nav a{
+  padding:0 15px;
+}
+.lang-switcher-in{
+  font-size: 16px;
+  font-family: 'Museo Cyrl 700';
+  color: #000000 !important
+}
+.btn-red{
+  border-radius: 20px;
+  background-color: #f55f68;
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  color: #fff !important;
+  font-size: 14px;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 11px 34px;
+  text-decoration: none !important;
+}
+.header-nav{
+  display: flex;
+}
+.left-panel{
+  max-width: 340px;
+  background: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  top: 100px;
+  padding-top: 65px;
+}
+.panel-group div {
+  min-width: 35px;
+  text-align: right;
+  margin-right: 25px;
+}
+.panel-group a {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color:#000;
+  font-family: 'Museo Cyrl 500';
+  line-height: 1.36;
+}
+.panel-group {
+  padding: 20px 0px;
+}
+.main-content{
+  height: 100%;
+  padding-top: 100px;
+  padding-right: 15px;
+}
+.right-content{
+  margin-left: 340px;
+  background-color: #f6f6f6;
+  padding-top: 65px;
+  padding-left: 30px;
+}
+.main-inner-ctn.row {
+  height: 100%;
+}
+.new-table tbody tr{
+  border-bottom: 1px solid #dadada;
+}
+.new-table tbody tr:last-child{
+  border:0;
+}
+.new-table tbody tr td{
+  padding-left: 0;
+  padding-right: 30px;
+  vertical-align: middle;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top: 0px;
+}
+.new-table tbody tr td:last-child{
+  padding-right:0;
+}
+.new-table thead tr{
+
+}
+.new-table{
+  margin:0
+}
+.new-table thead tr th{
+  padding-left: 0;
+  font-size: 12px;
+  font-family: 'Museo Cyrl 900';
+  border-bottom: solid 2px #f9c623;
+}
+.new-progress span {
+  display: block;
+  width: 0%;
+  height: 100%;
+  background: #F9C623;
+}
+.new-progress {
+  width: 100%;
+  height: 21px;
+  border-radius: 20px;
+  border: solid 1px #d8d8d8;
+  min-width: 115px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.inner-container {
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.inner-header{
+  padding: 0 35px;
+
+  font-family: 'Museo Cyrl 500';
+  font-size: 24px;
+  color: #fff;
+  padding-top: 18px;
+  padding-bottom: 21px;
+}
+.f9c623{
+  background-color: #f9c623;
+}
+.small-wrapper{
+  padding: 0 35px;
+}
+.table-1 tbody td:first-child{
+  color: #aaaaaa;
+  font-size:14px;
+  line-height: 1.6;
 }

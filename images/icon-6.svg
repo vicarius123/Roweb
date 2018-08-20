@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>поддержка</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PUSSY-HEADER" transform="translate(-64.000000, -520.000000)" stroke="#000000" stroke-width="2">
+            <g id="поддержка" transform="translate(65.000000, 521.000000)">
+                <path d="M13,29.859 C5.66,28.89 0,22.599 0,15 C0,6.718 6.72,0 15,0 C23.28,0 30,6.718 30,15 C30,22.599 24.34,28.89 17,29.859" id="поддержка_stroke3"></path>
+                <path d="M10,10 C10,7.238 12.238,5 15,5 C17.762,5 20,7.238 20,10 C20,12.762 17.762,15 15,15 L15,17.971" id="поддержка_stroke2"></path>
+                <path d="M17,23 C17,24.105 16.104,25 15,25 C13.896,25 13,24.105 13,23 C13,21.896 13.896,21 15,21 C16.104,21 17,21.896 17,23 Z" id="поддержка_stroke1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

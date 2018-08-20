@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ID1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Главная_header" transform="translate(-190.000000, -27.000000)" stroke="#000000">
+            <g id="ID">
+                <g transform="translate(0.000000, 9.000000)">
+                    <g id="ID1" transform="translate(191.000000, 18.000000)">
+                        <path d="M0,0 L3,4" id="ID1_path2"></path>
+                        <path d="M6,0 L3,4 L6,0 Z" id="ID1_path1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
