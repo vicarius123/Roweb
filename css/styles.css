@@ -761,7 +761,7 @@ footer.foo-main {
   right: -10px;
   top: 30px;
   padding: 25px 30px;
-  display: none;
+  display: block;
 }
 .notif-list ul{
   padding: 0;
