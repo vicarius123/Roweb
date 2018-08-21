@@ -433,9 +433,8 @@ select.contract-selector {
   z-index: 10;
   top: 100px;
   padding-top: 65px;
-  height:100%;
+  bottom: 0;
   overflow-y: auto;
-  padding-bottom: 30px;
 }
 .panel-group div {
   min-width: 35px;
@@ -688,4 +687,13 @@ footer.foo-main {
   left: 0;
   right: 0;
   bottom: 0;
+}
+.left-panel .inner-panel{
+  flex: 1;
+  padding-left: 60px;
+}
+.left-panel > div{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
