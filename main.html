@@ -7,7 +7,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
   <link rel="stylesheet" href="/css/styles.css">
   <title>RoWeb - Main</title>
 </head>
@@ -125,12 +125,12 @@
                   <tbody>
                     <tr>
                       <td>16.01.18</td>
-                      <td>Теория вероятностей и математическая статистика</td>
+                      <td>Теория вероятностей<br />и математическая статистика</td>
                       <td class="d-flex flex-middle"><div class="new-progress"><span style="width:30%"></span></div><span>30%</span></td>
                     </tr>
                     <tr>
                       <td>15.01.18</td>
-                      <td>Английский язык. Базовый курс для нелингвистов</td>
+                      <td>Английский язык.<br />Базовый курс для нелингвистов</td>
                       <td class="d-flex flex-middle"><div class="new-progress"><span style="width:13%"></span></div><span>13%</span></td>
                     </tr>
                     <tr>
@@ -181,10 +181,17 @@
           <div class="col-sm-8">
             <div class="inner-container">
               <div class="inner-header f55f68">
-                <p class="nomargin">
-                  Задолженности
-                </p>
-                <small>(по промежуточной аттестации)</small>
+                <div class="row flex-middle">
+                  <div class="col">
+                    <p class="nomargin">
+                      Задолженности
+                    </p>
+                    <small>(по промежуточной аттестации)</small>
+                  </div>
+                  <div class="col text-right">
+                    <span class="d-block"><a href="#" class="white pushed-24"><u>Посмотреть все</u></a></span>
+                  </div>
+                </div>
               </div>
               <div class="small-wrapper">
                 <table class="table new-table table-2">
@@ -215,9 +222,42 @@
             </div>
           </div>
           <div class="col-sm-4">
+            <div class="inner-container balance-ctn">
+              <div class="inner-header abcd45">
+                <div class="row flex-middle">
+                  <div class="col">
+                    <p class="nomargin">
+                      Баланс
+                    </p>
+                  </div>
+                  <div class="col text-right">
+                    <span class="d-block"><a href="#" class="white"><u>Выписка</u></a></span>
+                  </div>
+                </div>
+              </div>
+              <div class="small-wrapper">
+                <div class="balance d-flex flex-middle">
+                  <p class="nomargin">
+                    10 800 ₽
+                  </p>
+                  <a href="#" class="btn-green">Пересдать</a>
+                </div>
 
+              </div>
+
+            </div>
           </div>
         </div>
+        <footer class="foo-main">
+          <div class="text-center">
+            <p class="">
+              © ПО «Личная студия», Частное учреждение «Библиотека информационно-образовательных ресурсов», 2014-2018
+            </p>
+            <a href="#"><u>Политика в отношении обработки персональных данных</u></a><br>
+            <a href="#"><u>Пользовательское соглашение</u></a>
+          </div>
+
+        </footer>
       </div>
 
     </div>
