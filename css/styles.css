@@ -200,8 +200,13 @@ b{
 .new-fluid{
   padding: 44px 100px 0px 100px;
   height: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
   width: 100%;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between;
 }
 .blind-selector{
@@ -247,14 +252,20 @@ b{
 }
 .login-ctn{
   height: 100%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   position:relative;
   z-index: 10;
   min-height: 300px;
 }
 #myTab{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   width: 100%;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between;
   margin-bottom: 30px;
 }
@@ -308,7 +319,6 @@ label.css-label {
   background-image:url('/images/check-new.png');
   -webkit-touch-callout: none;
   -webkit-user-select: none;
-  -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
@@ -318,6 +328,8 @@ label.css-label {
   display: block;
 }
 .align-center{
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
 }
 button.btn-new.btn-green {
@@ -369,6 +381,7 @@ h1, .h1{
 header.main-header {
   height: 100px;
   background-color: #ffffff;
+  -webkit-box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
   position: fixed;
   top: 0;
@@ -377,6 +390,8 @@ header.main-header {
   z-index: 11;
 }
 .flex-middle{
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
 }
 .main-header > .row{
@@ -397,6 +412,8 @@ select.contract-selector {
   padding-right:5px
 }
 .contract-select{
+  -webkit-box-flex:1;
+  -ms-flex:1;
   flex:1;
 }
 .tool-nav{
@@ -415,6 +432,7 @@ select.contract-selector {
 .btn-red{
   border-radius: 20px;
   background-color: #f55f68;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   color: #fff !important;
   font-size: 14px;
@@ -423,6 +441,8 @@ select.contract-selector {
   text-decoration: none !important;
 }
 .header-nav{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 .left-panel{
@@ -442,7 +462,11 @@ select.contract-selector {
   margin-right: 25px;
 }
 .panel-group a {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   font-size: 14px;
   color:#000;
@@ -519,6 +543,7 @@ select.contract-selector {
 .inner-container {
   border-radius: 10px;
   background-color: #ffffff;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
   overflow: hidden;
   height: 100%;
@@ -656,6 +681,9 @@ select.contract-selector {
 }
 .balance {
   height: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
 }
 .balance-ctn .small-wrapper {
@@ -670,6 +698,7 @@ select.contract-selector {
 .btn-green{
   border-radius: 20px;
   background-color: #abcd45;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   color: #fff !important;
   font-size: 14px;
@@ -689,11 +718,159 @@ footer.foo-main {
   bottom: 0;
 }
 .left-panel .inner-panel{
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
   flex: 1;
   padding-left: 60px;
 }
 .left-panel > div{
   height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+}
+.notif-icon{
+  position:relative;
+}
+.notif-icon > span{
+  position: absolute;
+  display: block;
+  width: 15px;
+  height: 15px;
+  background-color: #f55f68;
+  top: -20px;
+  right: -2px;
+  font-size: 10px;
+  color: #fff !important;
+  border-radius: 150px;
+  vertical-align: middle;
+  line-height: 17px;
+  font-family: 'Museo Sans Cyrl 500';
+}
+.notifications-ctn{
+  position: absolute;
+  width: 334px;
+  height: 337px;
+  text-align: left;
+  background: url(/images/noti-bg.svg)no-repeat;
+  background-size: cover;
+  right: -10px;
+  top: 30px;
+  padding: 25px 30px;
+  display: none;
+}
+.notif-list ul{
+  padding: 0;
+  margin:0;
+  list-style-type:none;
+}
+.notif-ctn > strong{
+  color: #000000;
+  font-family: 'Museo Cyrl 500';
+  font-size: 12px;
+  padding-bottom: 4px;
+  display: block;
+  border-bottom: solid 1px #f55f68;
+}
+.notif-list ul li span{
+  display: block;
+  color: #aaaaaa;
+  line-height: 2.24;
+  font-size: 10px;
+}
+.notif-list ul li{
+  font-size: 12px;
+  padding: 5px 0px;
+  color: #aaaaaa;
+  line-height: 1.03;
+  position: relative;
+  padding-left: 18px;
+}
+
+.notif-list ul li.un-read{
+  color:#000;
+}
+.notif-list {
+  max-height: 260px;
+  overflow-y: scroll;
+  margin-top: 15px;
+}
+
+/* width */
+.notif-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+.notif-list::-webkit-scrollbar-track {
+  background: #dadada;
+  border: 2px solid transparent;
+  background-clip: content-box;   /* THIS IS IMPORTANT */
+}
+
+/* Handle */
+.notif-list::-webkit-scrollbar-thumb {
+  background: #f55f68;
+  border: 1px solid #f55f68;
+  border-radius: 5.5px;
+}
+.notif-icon{
+  text-decoration: none !important;
+}
+.notif-list li:before {
+  content: '';
+  height: 7px;
+  width: 7px;
+  display: block;
+  position: absolute;
+  top: 7px;
+  border-radius: 150px;
+  left: 0;
+}
+.notif-list li.read:before{
+  background: #aaaaaa;
+}
+.notif-list li.un-read:before{
+  background: #f55f68;
+}
+.pop-wrapper {
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px 50px 40px 50px;
+}
+section.popup-new {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 999999;
+  margin: 0 auto;
+  background: rgba(155, 155, 155, 0.63);
+  display: flex;
+  align-items: center;
+}
+.pop-title {
+  font-size: 20px;
+  font-family: 'Museo Cyrl 300';
+  margin-bottom: 12px;
+}
+.pop-date {
+  font-size: 14px;
+  color: #aaaaaa;
+  line-height: 1.6;
+  margin-bottom: 2px;
+}
+.pop-header {
+  border-bottom: solid 2px #f55f68;
+  margin-bottom: 25px;
+}
+.pop-close img {
+    padding-top: 5px;
 }
