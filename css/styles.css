@@ -433,6 +433,8 @@ select.contract-selector {
   z-index: 10;
   top: 100px;
   padding-top: 65px;
+  bottom: 0;
+  overflow-y: auto;
 }
 .panel-group div {
   min-width: 35px;
@@ -455,7 +457,7 @@ select.contract-selector {
   padding-right: 15px;
 }
 .main-inner-ctn.row {
-    min-height: 100vh;
+  min-height: calc(100vh - 100px);
 }
 .right-content{
   margin-left: 340px;
@@ -463,6 +465,7 @@ select.contract-selector {
   padding-top: 65px;
   padding-left: 30px;
   padding-right: 30px;
+  padding-bottom: 111px;
 }
 .right-content > .row{
   padding-bottom:30px;
@@ -478,12 +481,13 @@ select.contract-selector {
   padding-right: 30px;
   vertical-align: middle;
   font-size: 15px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 26px;
+  padding-bottom: 26px;
   border-top: 0px;
 }
 .new-table tbody tr td:last-child{
   padding-right:0;
+  text-align: right;
 }
 .new-table thead tr{
 
@@ -495,7 +499,7 @@ select.contract-selector {
   font-size: 12px;
   font-family: 'Museo Cyrl 900';
   border-bottom: solid 2px #f9c623;
-  padding: 19px 0px 20px 0px;
+  padding: 23px 0px 13px 0px;
 }
 .new-progress span {
   display: block;
@@ -592,8 +596,6 @@ select.contract-selector {
   text-align: center;
   background: none !important;
   border-radius: 150px !important;
-  width: 35px;
-  height: 35px;
   display: block;
   border: 0 !important;
 }
@@ -635,7 +637,63 @@ select.contract-selector {
 }
 .new-table.table-2 thead tr th{
   border-bottom: solid 2px #f55f68;
+  border-top: 0;
 }
 .panel-group:first-child{
   padding-top:0px;
+}
+.abcd45{
+  background:#abcd45;
+}
+.inner-header span{
+  font-size: 12px;
+}
+.pushed-24{
+  margin-right:24px;
+}
+.h-100{
+  height:100%;
+}
+.balance {
+  height: 100%;
+  flex-direction: column;
+}
+.balance-ctn .small-wrapper {
+  height: calc(100% - 69px);
+}
+.balance p{
+  font-size: 36px;
+  font-family: 'Museo Cyrl 500';
+  color: #abcd45;
+  margin-top: 90px;
+}
+.btn-green{
+  border-radius: 20px;
+  background-color: #abcd45;
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  color: #fff !important;
+  font-size: 14px;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 11px 34px;
+  text-decoration: none !important;
+}
+.balance .btn-green{
+  position: absolute;
+  bottom: 30px;
+}
+footer.foo-main {
+  padding-bottom: 30px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.left-panel .inner-panel{
+  flex: 1;
+  padding-left: 60px;
+}
+.left-panel > div{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
