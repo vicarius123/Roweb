@@ -528,7 +528,7 @@ select.contract-selector {
   margin:0
 }
 .new-table thead tr th{
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Museo Cyrl 900';
   border-bottom: solid 2px #f9c623;
   padding: 23px 0px 13px 0px;
@@ -1011,4 +1011,46 @@ section.popup-new {
 }
 .popup-planning .d-flex{
   margin-bottom:27px;
+}
+
+
+/** Documents**/
+
+.table-3 tbody tr td:last-child{
+  text-align: left;
+}
+.linegraph-selector{
+  border:0px !important;
+}
+.course-1{
+  background-color: #f55f68;
+}
+.course-2{
+  background-color: #3aa9d1;
+}
+.course-3{
+  background-color: #f9c623;
+}
+.course-4{
+  background-color: #755665;
+}
+.course-5{
+  background-color: #abcd45;
+}
+.course-6{
+  background-color: #3C577F;
+}
+.course-7{
+  background-color: #476143;
+}
+.linegraph-month > div:before{
+  content:'';
+}
+.linegraph-month > div{
+  border-right:1px solid #dadada;
+  position:relative;
+}
+.linegraph-ctn {
+    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
 }
