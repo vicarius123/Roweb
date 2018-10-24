@@ -190,6 +190,9 @@ html,body{
 b{
   font-family: 'Museo Sans Cyrl 900';
 }
+*{
+  outline: 0 !important;
+}
 /**Registration part**/
 .main-reg{
   width: 100%;
@@ -436,10 +439,14 @@ select.contract-selector {
   -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   color: #fff !important;
-  font-size: 14px;
+  font-size: 13px;
   font-family: 'Museo Sans Cyrl 500';
-  padding: 11px 34px;
+  padding: 9px 25px;
   text-decoration: none !important;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
 }
 .header-nav{
   display: -webkit-box;
@@ -702,10 +709,13 @@ select.contract-selector {
   -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   color: #fff !important;
-  font-size: 14px;
+  font-size: 13px;
   font-family: 'Museo Sans Cyrl 500';
-  padding: 11px 34px;
+  padding: 9px 25px;
   text-decoration: none !important;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
 }
 .balance .btn-green{
   position: absolute;
@@ -874,4 +884,100 @@ section.popup-new {
 }
 .pop-close img {
   padding-top: 5px;
+}
+
+
+/***planning**/
+
+.planning-selector{
+
+}
+.course-prev::before{
+  content: '';
+  background: url(/images/arrow-g-left.svg)no-repeat;
+  display: block;
+  height: 12px;
+  width: 9px;
+  float: left;
+  margin-top: 9px;
+  margin-right: 10px;
+}
+.course-next::before{
+  content: '';
+  background: url(/images/arrow-g-right.svg)no-repeat;
+  display: block;
+  height: 12px;
+  width: 9px;
+  float: right;
+  margin-top: 9px;
+  margin-left: 10px;
+}
+.course-prev{
+  font-size: 20px;
+  color: #aaaaaa !important;
+  font-family: 'Museo Cyrl 500';
+  text-decoration: none !important;
+}
+.course-next{
+  font-size: 20px;
+  color: #aaaaaa !important;
+  font-family: 'Museo Cyrl 500';
+  text-decoration: none !important;
+}
+.current-course{
+  font-size: 36px;
+  font-family: 'Museo Cyrl 500';
+  text-transform: uppercase;
+}
+.current-course > span{
+  font-size:28px;
+}
+.current-course small{
+  font-size: 15px;
+  font-family: 'Museo Cyrl 300';
+}
+.planning-selector {
+  border-bottom: solid 2px #abcd45;
+}
+.planning-ctn{
+  padding-top:20px;
+}
+.planning-pills a{
+  margin-right: 30px;
+  font-size: 14px;
+  color: #aaaaaa;
+  border-bottom: dashed 1px #aaaaaa;
+  line-height: 1;
+  font-family: 'Museo Cyrl 700';
+  text-decoration: none !important;
+}
+.planning-pills a.active,.planning-pills a:hover{
+  border-bottom: solid 1px #abcd45;
+  color: #abcd45;
+}
+.planning-info b{
+  font-family: 'Museo Cyrl 700';
+  font-size: 14px;
+  font-weight: bold;
+}
+.planning-pills{
+  margin-bottom:17px;
+}
+.btn-planning{
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
+  border: solid 2px #abcd45;
+  color: #abcd45 !important;
+  background-color: #ffffff;
+  font-size: 13px;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 7px 25px;
+  text-decoration: none !important;
+  border-radius: 20px;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
+
+}
+.planning-info .row{
+  margin-bottom:30px;
 }
