@@ -981,3 +981,34 @@ section.popup-new {
 .planning-info .row{
   margin-bottom:30px;
 }
+
+
+.popup-planning{
+
+}
+.popup-planning .pop-wrapper{
+  width: 100%;
+  max-width:450px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 35px;
+  border-radius: 10px;
+}
+.popup-planning .pop-header{
+  border-bottom: solid 2px #abcd45;
+}
+.medium{
+  font-family: 'Museo Cyrl 700';
+}
+.popup-planning span.active{
+  border-bottom:solid 1px #abcd45;
+}
+.popup-planning span{
+  border-bottom:solid 1px #aaa;
+}
+.popup-planning .d-flex:first-child{
+  margin-top:10px;
+}
+.popup-planning .d-flex{
+  margin-bottom:27px;
+}

@@ -221,3 +221,11 @@ section.popup-new	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^sectio
 .planning-pills	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills{$/;"	function	line:963
 .btn-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-planning{$/;"	function	line:966
 .planning-info .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-info .row{$/;"	function	line:981
+.popup-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning{$/;"	function	line:986
+.popup-planning .pop-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-wrapper{$/;"	function	line:989
+.popup-planning .pop-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-header{$/;"	function	line:997
+.medium	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.medium{$/;"	function	line:1000
+.popup-planning span.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span.active{$/;"	function	line:1003
+.popup-planning span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span{$/;"	function	line:1006
+.popup-planning .d-flex:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .d-flex:first-child{$/;"	function	line:1009
+.popup-planning .d-flex	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .d-flex{$/;"	function	line:1012
