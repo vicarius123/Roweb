@@ -331,6 +331,10 @@ h1, .h1{
   font-family: 'Museo Cyrl 500';
   font-size: 24px;
 }
+h2, .h2{
+  font-family: 'Museo Cyrl 300';
+  font-size: 20px;
+}
 .nomargin{
   margin:0;
 }
@@ -421,7 +425,7 @@ select.contract-selector {
   color: #fff !important;
   font-size: 13px;
   font-family: 'Museo Sans Cyrl 500';
-  padding: 9px 25px;
+  padding: 9px 15px;
   text-decoration: none !important;
   min-width: 118px;
   display: inline-block;
@@ -689,7 +693,7 @@ select.contract-selector {
   color: #fff !important;
   font-size: 13px;
   font-family: 'Museo Sans Cyrl 500';
-  padding: 9px 25px;
+  padding: 9px 15px;
   text-decoration: none !important;
   min-width: 118px;
   display: inline-block;
@@ -1350,4 +1354,35 @@ label.css-label {
   font-size: 13px;
   font-family: 'Museo Cyrl 500';
   color: #aaa;
+}
+.vacations-ctn{
+  margin-top:30px;
+}
+.vacations-ctn b{
+  font-size: 14px;
+}
+.input-calendar{
+  border-bottom: solid 1px #abcd45;
+  margin-top: 10px;
+  display: inline-block;
+}
+.vacations-ctn h2{
+  padding-bottom:20px;
+}
+.academic_sel{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  border-bottom: 1px solid #aaaaaa;
+  border-radius: 0;
+  line-height: 1.49;
+  background: transparent;
+  color: #000;
+  font-size: 15px;
+  background: url(/images/sel-b-down.svg)no-repeat right center;
+  padding-right: 20px;
+  font-family: 'Museo Sans Cyrl 300';
+  margin-top:10px;
+  margin-bottom:30px;
 }
