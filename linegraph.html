@@ -145,105 +145,356 @@
                 </div>
 
                 <div class="linegraph-ctn">
-                  <div class="d-flex linegraph-month text-center">
+                  <div id="linegraph-current"></div>
+                  <div class="d-flex linegraph-month text-center align-items-center">
                     <div class="flex-fill">
                       Сентябрь
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Октябрь
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Ноябрь
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Декабрь
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill flex-vacation not-available">
                       Январь
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill flex-vacation not-available">
                       Февраль
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Март
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Апрель
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Май
                     </div>
-                    <div class="flex-fill">
+                    <div class="flex-fill not-available">
                       Июнь
                     </div>
                   </div>
                   <div class="d-flex flex-linegraph">
                     <div class="flex-fill course-1">
-                      1
+                      <span class="course-title">Линейная алгебра</span>
+                      <span class="course-number">1</span>
                     </div>
-                    <div class="flex-fill course-7">
-                      2
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-title no-wrap">Английский язык. Базовый курс для нелингвистов.</span>
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>1</span>
                     </div>
-                    <div class="flex-fill course-7">
-                      3
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>2</span>
                     </div>
-                    <div class="flex-fill course-7">
-                      4
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">3</span>
                     </div>
-                    <div class="flex-fill course-7">
-                      5
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">4</span>
                     </div>
-                    <div class="flex-fill course-7">
-                      1
-                    </div>
-                  </div>
-                  <div class="d-flex flex-linegraph">
-                    <div class="flex-fill course-1">
-                      1
-                    </div>
-                    <div class="flex-fill course-1">
-                      2
-                    </div>
-                    <div class="flex-fill course-1">
-                      3
-                    </div>
-                    <div class="flex-fill course-1">
-                      4
-                    </div>
-                    <div class="flex-fill course-1">
-                      5
-                    </div>
-                    <div class="flex-fill course-5">
-                      1
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">5</span>
                     </div>
                   </div>
                   <div class="d-flex flex-linegraph">
+                    <div class="flex-fill course-1">
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-1 not-available">
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>2</span>
+                    </div>
+                    <div class="flex-fill course-1 not-available">
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>3</span>
+                    </div>
+                    <div class="flex-fill course-1 not-available">
+                      <span class="course-number">4</span>
+                    </div>
+                    <div class="flex-fill course-1 not-available">
+                      <span class="course-number">5</span>
+                    </div>
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-number">1</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
                     <div class="flex-fill course-2">
-                      1
+                      <span class="course-title">Философия</span>
+                      <span class="course-number">1</span>
                     </div>
-                    <div class="flex-fill course-2">
-                      2
+                    <div class="flex-fill course-2 not-available">
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>2</span>
                     </div>
-                    <div class="flex-fill course-2">
-                      3
+                    <div class="flex-fill course-2 not-available">
+                      <span class="course-title course-ttl-r">экз</span>
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>3</span>
                     </div>
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-title">Микроэкономика</span>
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-title course-ttl-r">экз</span>
+                      <span class="course-number">4</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
+                    <div class="flex-fill course-3">
+                      <span class="course-title change-icn">История</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-title">Социология</span>
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-title course-ttl-r">экз</span>
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-2 not-available">
+                      <span class="course-title no-wrap change-icn">Английский для направления «Экономика»</span>
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-2 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-2 not-available">
+                      <span class="course-number">4</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
+                    <div class="flex-fill course-3">
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-3 not-available">
+                      <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"></i>3</span>
+                    </div>
+                    <div class="flex-fill course-3 not-available">
+                      <span class="course-number">4</span>
+                    </div>
+                    <div class="flex-fill course-5 not-available">
+
+                      <span class="course-number">4</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-title no-wrap change-icn">Математический анализ</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-number">2</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
+                    <div class="flex-fill course-8">
+                      <span class="course-title">История экономических учений</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-title no-wrap">Методы оптимальных решений</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
+                    <div class="flex-fill course-8">
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-number">4</span>
+                    </div>
+                    <div class="flex-fill course-3 not-available">
+                      <span class="course-title">Информатика</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-8 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-6 not-available">
+                      <span class="course-number">4</span>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-linegraph">
                     <div class="flex-fill course-5">
-                      4
+                      <span class="course-title">Правоведение</span>
+                      <span class="course-number">1</span>
                     </div>
-                    <div class="flex-fill course-5">
-                      5
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-number">2</span>
                     </div>
-                    <div class="flex-fill course-5">
-                      1
+                    <div class="flex-fill course-5 not-available">
+                      <span class="course-number">3</span>
                     </div>
+                    <div class="flex-fill course-3 not-available">
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-3 not-available">
+                      <span class="course-title course-ttl-r">экз</span>
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-1 not-available">
+                      <span class="course-title">Физическая культура</span>
+                      <span class="course-number">1</span>
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-linegraph">
+
+                  </div>
+                  <div class="d-flex flex-linegraph">
+                    <div class="flex-fill empty-date"></div>
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-title no-wrap">Элективные курсы по физической культуре</span>
+                      <span class="course-number">1</span>
+                    </div>
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">2</span>
+                    </div>
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">3</span>
+                    </div>
+                    <div class="flex-fill course-7 not-available">
+
+                      <span class="course-number">4</span>
+                    </div>
+                    <div class="flex-fill course-7 not-available">
+                      <span class="course-number">5</span>
+                    </div>
+                  </div>
+                  <div class="d-flex linegraph-month text-center align-items-center">
+                    <div class="flex-fill">
+                      Сентябрь
+                    </div>
+                    <div class="flex-fill not-available">
+                      Октябрь
+                    </div>
+                    <div class="flex-fill not-available">
+                      Ноябрь
+                    </div>
+                    <div class="flex-fill not-available">
+                      Декабрь
+                    </div>
+                    <div class="flex-fill not-available">
+                      Январь
+                    </div>
+                    <div class="flex-fill not-available">
+                      Февраль
+                    </div>
+                    <div class="flex-fill not-available">
+                      Март
+                    </div>
+                    <div class="flex-fill not-available">
+                      Апрель
+                    </div>
+                    <div class="flex-fill not-available">
+                      Май
+                    </div>
+                    <div class="flex-fill not-available">
+                      Июнь
+                    </div>
+                  </div>
+                </div>
+                <div class="linegraph-legend">
+                  <div class="d-flex legen-ctn align-items-center">
+                    <div class="flex-fill">
+                      <a href="#" class="btn-planning btn-yellow">Продвижение</a>
+                    </div>
+                    <div class="flex-fill">
+                      <span class="lgnd-date">– текущая дата</span>
+                    </div>
+                    <div class="flex-fill">
+                      <span class="lgnd-rub">– требует оплаты</span>
+                    </div>
+                    <div class="flex-fill">
+                      <span class="lgnd-change">– смена дисциплины</span>
+                    </div>
+                    <div class="flex-fill">
+                      <span class="lgnd-vacations">– каникулы</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="linegraph-instructions">
+                  <div class="inner-container small-wrapper">
+                    <div class="instructions-title">
+                      Инструкции
+                    </div>
+                    <div class="instructions-ctn">
+                      <div class="row">
+                        <div class="col-sm-3">
+                          
+                            Размещение ВКР_МД в ЭБС
+
+                        </div>
+                        <div class="col-sm-3">
+                          Вебинар
+                        </div>
+                        <div class="col-sm-3">
+                          Глоссарный тренинг
+                        </div>
+                        <div class="col-sm-3">
+                          Заполнение электронного шаблона отчета по практике и передача его в проверку
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-3">
+                          Устный доклад
+                        </div>
+                        <div class="col-sm-3">
+                          Виртуальная лабораторная работа
+                        </div>
+                        <div class="col-sm-3">
+                          Коллективный тренинг
+                        </div>
+                        <div class="col-sm-3">
+                          Техника безопасности для обучающихся, проходящих практику
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-3">
+                          Размещение ВКР_МД в ЭБС
+                        </div>
+                        <div class="col-sm-3">
+                          Вебинар
+                        </div>
+                        <div class="col-sm-3">
+                          Глоссарный тренинг
+                        </div>
+                        <div class="col-sm-3">
+                          Заполнение электронного шаблона отчета по практике и передача его в проверку
+                        </div>
+                      </div>
+                    </div>
+
                   </div>
                 </div>
               </div>
 
             </div>
+
           </div>
 
         </div>
+
 
         <footer class="foo-main">
           <div class="text-center">
@@ -264,7 +515,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
   <script src="/js/js.js"></script>
 </body>
 </html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="15px" viewBox="0 0 10 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>change</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Обучение" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Линграф" transform="translate(-481.000000, -616.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="change" transform="translate(481.000000, 617.000000)">
+                <g id="Group-2">
+                    <g id="Group" transform="translate(0.600000, 0.236364)">
+                        <polyline id="Path-3" points="6 0 8.42140866 2.30453029 6 4.94402503"></polyline>
+                        <polyline id="Path-4" points="0 2.36363636 3.29735545 2.36363636 6.59471089 2.36363636"></polyline>
+                    </g>
+                    <g id="Group-Copy" transform="translate(4.280000, 10.342424) rotate(180.000000) translate(-4.280000, -10.342424) translate(0.280000, 7.842424)">
+                        <polyline id="Path-3" points="4.8 0 7.22140866 2.30453029 4.8 4.94402503"></polyline>
+                        <polyline id="Path-4" points="0 2.36363636 3.29735545 2.36363636 6.59471089 2.36363636"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18.5" cy="18.5" r="18.5"></circle>
+        <filter x="-27.0%" y="-27.0%" width="159.5%" height="159.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Обучение" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Линграф" transform="translate(-819.000000, -1205.000000)">
+            <g id="Group-6" transform="translate(825.000000, 1211.000000)">
+                <g id="Oval-3" fill-rule="nonzero">
+                    <g id="Oval-2">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <text id="₽" fill="#F9C623" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="24" font-weight="normal">
+                    <tspan x="13" y="28">₽</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

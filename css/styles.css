@@ -9,8 +9,6 @@
   font-weight: 600;
   font-style: normal;
 }
-
-
 @font-face {
   font-family: 'Museo Sans Cyrl 100';
   src: url('/fonts/MuseoSansCyrl-100.eot');
@@ -22,7 +20,6 @@
   font-weight: 200;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 300';
   src: url('/fonts/MuseoCyrl-300.eot');
@@ -34,7 +31,6 @@
   font-weight: 300;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Sans Cyrl 700';
   src: url('/fonts/MuseoSansCyrl-700.eot');
@@ -46,7 +42,6 @@
   font-weight: 600;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 100';
   src: url('/fonts/MuseoCyrl-100.eot');
@@ -58,7 +53,6 @@
   font-weight: 200;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 300';
   src: url('/fonts/MuseoCyrl-300Italic.eot');
@@ -70,7 +64,6 @@
   font-weight: 300;
   font-style: italic;
 }
-
 @font-face {
   font-family: 'Museo Sans Cyrl 900';
   src: url('/fonts/MuseoSansCyrl-900.eot');
@@ -82,7 +75,6 @@
   font-weight: bold;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 700';
   src: url('/fonts/MuseoCyrl-700Italic.eot');
@@ -94,7 +86,6 @@
   font-weight: 600;
   font-style: italic;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 900';
   src: url('/fonts/MuseoCyrl-900.eot');
@@ -106,7 +97,6 @@
   font-weight: bold;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Sans Cyrl 300';
   src: url('/fonts/MuseoSansCyrl-300.eot');
@@ -118,7 +108,6 @@
   font-weight: 300;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 500';
   src: url('/fonts/MuseoCyrl-500.eot');
@@ -130,7 +119,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 500';
   src: url('/fonts/MuseoCyrl-500Italic.eot');
@@ -142,7 +130,6 @@
   font-weight: normal;
   font-style: italic;
 }
-
 @font-face {
   font-family: 'Museo Sans Cyrl 500';
   src: url('/fonts/MuseoSansCyrl-500.eot');
@@ -154,7 +141,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 900';
   src: url('/fonts/MuseoCyrl-900Italic.eot');
@@ -166,7 +152,6 @@
   font-weight: bold;
   font-style: italic;
 }
-
 @font-face {
   font-family: 'Museo Cyrl 100';
   src: url('/fonts/MuseoCyrl-100Italic.eot');
@@ -284,7 +269,6 @@ b{
 #myTab a.active{
   border-bottom: solid 2px #ffffff;
 }
-
 .main-reg input {
   width: 100%;
   font-size: 12px;
@@ -301,7 +285,6 @@ b{
 input[type=checkbox].css-checkbox {
   position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
-
 input[type=checkbox].css-checkbox + label.css-label {
   padding-left: 23px;
   height: 18px;
@@ -315,7 +298,6 @@ input[type=checkbox].css-checkbox + label.css-label {
   color: #fff;
   margin:0;
 }
-
 input[type=checkbox].css-checkbox:checked + label.css-label {
   background-position: 0 -18px;
 }
@@ -372,9 +354,7 @@ h1, .h1{
   bottom: 0;
   right: -100px;
 }
-
 /***** INNER PAGE FRAME*****/
-
 .main-fluid {
   padding-left: 60px;
   padding-right: 30px;
@@ -391,7 +371,7 @@ header.main-header {
   top: 0;
   right: 0;
   left: 0;
-  z-index: 11;
+  z-index: 99;
 }
 .flex-middle{
   -webkit-box-align: center;
@@ -406,7 +386,7 @@ select.contract-selector {
   border: solid 2px #f55f68;
   -webkit-appearance: none;
   padding: 4px 25px 4px 16px;
-  font-size: 17px;
+  font-size: 14px;
   background: url(/images/sel-arrow.svg)no-repeat center;
   background-position-x: 95%;
 }
@@ -522,7 +502,6 @@ select.contract-selector {
   text-align: right;
 }
 .new-table thead tr{
-
 }
 .new-table{
   margin:0
@@ -561,7 +540,6 @@ select.contract-selector {
   font-family: 'Museo Cyrl 500';
   font-size: 24px;
   color: #fff;
-
 }
 .f9c623{
   background-color: #f9c623;
@@ -638,7 +616,6 @@ select.contract-selector {
   padding-bottom: 10px;
   padding-left: 15px;
 }
-
 .legend-group:before{
   content:'';
   display:inline-block;
@@ -801,7 +778,6 @@ footer.foo-main {
   position: relative;
   padding-left: 18px;
 }
-
 .notif-list ul li.un-read{
   color:#000;
 }
@@ -810,19 +786,16 @@ footer.foo-main {
   overflow-y: scroll;
   margin-top: 15px;
 }
-
 /* width */
 .notif-list::-webkit-scrollbar {
   width: 5px;
 }
-
 /* Track */
 .notif-list::-webkit-scrollbar-track {
   background: #dadada;
   border: 2px solid transparent;
   background-clip: content-box;   /* THIS IS IMPORTANT */
 }
-
 /* Handle */
 .notif-list::-webkit-scrollbar-thumb {
   background: #f55f68;
@@ -864,7 +837,11 @@ section.popup-new {
   z-index: 999999;
   margin: 0 auto;
   background: rgba(155, 155, 155, 0.63);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
 }
 .pop-title {
@@ -885,12 +862,8 @@ section.popup-new {
 .pop-close img {
   padding-top: 5px;
 }
-
-
 /***planning**/
-
 .planning-selector{
-
 }
 .course-prev::before{
   content: '';
@@ -964,6 +937,7 @@ section.popup-new {
   margin-bottom:17px;
 }
 .btn-planning{
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
   border: solid 2px #abcd45;
   color: #abcd45 !important;
@@ -976,15 +950,11 @@ section.popup-new {
   min-width: 118px;
   display: inline-block;
   text-align: center;
-
 }
 .planning-info .row{
   margin-bottom:30px;
 }
-
-
 .popup-planning{
-
 }
 .popup-planning .pop-wrapper{
   width: 100%;
@@ -1012,10 +982,7 @@ section.popup-new {
 .popup-planning .d-flex{
   margin-bottom:27px;
 }
-
-
 /** Documents**/
-
 .table-3 tbody tr td:last-child{
   text-align: left;
 }
@@ -1043,14 +1010,281 @@ section.popup-new {
 .course-7{
   background-color: #476143;
 }
+.course-8{
+  background-color: #7C4B4B;
+}
+.linegraph-month .not-available{
+  color: rgba(0, 0, 0, .5);
+}
+.course-1.not-available{
+  background-color: rgba(245, 95, 104, .5);
+}
+.course-2.not-available{
+  background-color: rgba(58, 169, 209, .5);
+}
+.course-3.not-available{
+  background-color: rgba(249, 198, 35, .5);
+}
+.course-4.not-available{
+  background-color: rgba(117, 86, 101, .5);
+}
+.course-5.not-available{
+  background-color: rgba(171, 205, 69, .5);
+}
+.course-6.not-available{
+  background-color: rgba(60, 87, 127, .5);
+}
+.course-7.not-available{
+  background-color: rgba(71, 97, 67, .5);
+}
+.course-8.not-available{
+  background-color: rgba(124, 75, 75, .5);
+}
 .linegraph-month > div:before{
-  content:'';
+  content: '';
+  position: absolute;
+  width: 1px;
+  height: 300vh;
+  background: #dadada;
+  z-index: 0;
+  right: -1px;
+  top:0px;
+}
+.flex-vacation::after{
+  content: '';
+  position: absolute;
+  min-height: 300vh;
+  width: 15px;
+  background: #d8d8d8;
+  z-index: 11;
+  left: 0px;
+  top: 100%;
 }
 .linegraph-month > div{
-  border-right:1px solid #dadada;
-  position:relative;
+  position: relative;
+  font-size: 13px;
+  font-family: 'Museo Cyrl 700';
+  color: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+  -webkit-box-flex: 1 !important;
+  -ms-flex: 1 !important;
+  flex: 1 !important;
 }
 .linegraph-ctn {
-    box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
-    background-color: #ffffff;
+  -webkit-box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  overflow: hidden;
+  position: relative;
+}
+.flex-linegraph {
+  height: 68px;
+  position: relative;
+}
+.flex-linegraph > .flex-fill{
+  position: relative;
+  padding:5px 15px;
+  -webkit-box-flex: 1 !important;
+  -ms-flex: 1 !important;
+  flex: 1 !important;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.linegraph-month{
+  height:100px;
+}
+.course-title{
+  position: absolute;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  z-index: 30;
+  color: #fff;
+  font-family: 'Museo Cyrl 700';
+  font-size: 14px;
+}
+.course-title.no-wrap{
+  white-space: nowrap;
+}
+.flex-linegraph .flex-fill::before{
+  content: '';
+  width: 100%;
+  height: 100%;
+  display: block;
+  pointer-events: none;
+  background: transparent;
+  position: absolute;
+  border: 5px solid transparent;
+  top: 0;
+  right: 0;
+}
+.flex-linegraph .flex-fill:not(.empty-date):hover::before{
+  border: 5px solid #fff;
+  -webkit-box-shadow: 1px 2px 7px rgba(0, 0, 0, .20);
+  box-shadow: 1px 2px 7px rgba(0, 0, 0, .20);
+}
+.course-number{
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  text-align: right;
+  display: block;
+  width: 100%;
+  color: #fff;
+  font-family: 'Museo Cyrl 700';
+  font-size: 14px;
+}
+.course-ttl-r{
+  right:15px;
+}
+.payment-icn{
+  width: 20px;
+  height: 20px;
+  background: url(/images/rub-icn.svg) no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.change-icn::after{
+  content: '';
+  width: 10px;
+  height: 13px;
+  display: inline-block;
+  background: url(/images/change-icn.svg)no-repeat;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+.linegraph-legend{
+  margin-top:30px;
+}
+.btn-planning.btn-yellow{
+  color: #f9c623 !important;
+  border: solid 2px #f9c623;
+}
+#linegraph-current::before{
+  content: '';
+  background: url(/images/line-down.svg);
+  display: block;
+  height: 5px;
+  width: 7px;
+  margin-left: -3px;
+}
+#linegraph-current::after{
+  content: '';
+  background: url(/images/line-up.svg);
+  display: block;
+  height: 5px;
+  width: 7px;
+  position: relative;
+  top: 100%;
+  margin-top: -10px;
+  margin-left: -3px;
+}
+#linegraph-current{
+  height: 100%;
+  width: 1px;
+  position: absolute;
+  top: 0;
+  left: 32px;
+  background-color: #ff0e2b;
+  z-index: 50;
+  background-repeat: no-repeat, no-repeat;
+}
+.tooltip.show {
+  opacity: 1;
+}
+.tooltip-inner {
+  max-width: 200px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 0px;
+  line-height: 1.49;
+  color: #000000;
+  font-size: 15px;
+  font-family: 'Museo Sans Cyrl 300';
+  padding: 15px;
+}
+.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before{
+  border-bottom-color: #fff;
+}
+.lgnd-date:before{
+  content: '';
+  height: 20px;
+  width: 1px;
+  background: #d0021b;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+.lgnd-rub::before{
+  content: '';
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+  background: url(/images/lgnd-rub.svg)no-repeat center;
+  background-size: cover;
+}
+.lgnd-change::before{
+  content: '';
+  height: 20px;
+  width: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+  background: url(/images/lgnd-change.svg)no-repeat center;
+  background-size: cover;
+}
+.lgnd-vacations::before{
+  content: '';
+  height: 34px;
+  width: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+  background: #d8d8d8;
+}
+.linegraph-instructions{
+  margin-top:32px;
+}
+.table th{
+  border-top:0px;
+}
+.table-instructions td{
+  width:25%;
+}
+.instructions-title{
+  font-size: 20px;
+  font-family: 'Museo Cyrl 300';
+  padding-bottom: 12px;
+  border-bottom: solid 2px #f9c623;
+  margin-bottom: 0px;
+  margin-top:15px;
+}
+
+.instructions-ctn .row:last-child > div{
+  border:0px;
+}
+.instructions-ctn .row{
+  margin-left:0px;
+  margin-right:0px;
+}
+.instructions-ctn .row > div{
+  padding-left: 0px;
+  padding-right: 0px;
+  border-bottom: solid 1px #dadada;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.linegraph-instructions{
+  margin-bottom:40px;
 }
