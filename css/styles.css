@@ -1386,3 +1386,18 @@ label.css-label {
   margin-top:10px;
   margin-bottom:30px;
 }
+.range-minus, .range-plus{
+  background: transparent;
+  border:0px;
+  padding:0px;
+  cursor: pointer;
+}
+.range-value {
+  margin: 0 10px;
+}
+.range-ctn{
+  margin-top:10px;
+}
+.table_info thead tr th{
+  border-color:#abcd45
+}
