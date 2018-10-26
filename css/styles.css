@@ -508,7 +508,7 @@ select.contract-selector {
 }
 .new-table thead tr th{
   font-size: 14px;
-  font-family: 'Museo Cyrl 900';
+  font-family: 'Museo Cyrl 700';
   border-bottom: solid 2px #f9c623;
   padding: 23px 0px 13px 0px;
 }
@@ -1287,4 +1287,19 @@ section.popup-new {
 }
 .linegraph-instructions{
   margin-bottom:40px;
+}
+.course-sel{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: #fff;
+  font-size: 18px;
+  background: url(/images/sel-down.svg)no-repeat right center;
+  padding-right: 20px;
+}
+.table-work tbody tr td:last-child{
+  text-align: left;
 }

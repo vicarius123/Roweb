@@ -10,6 +10,6 @@ $(document).ready(function(){
 
 
   $('i[data-toggle="tooltip"]') .tooltip({
-    offset: '-40px 6px'
+    offset: '-40px, 6px'
   })
 })

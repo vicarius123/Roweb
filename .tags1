@@ -283,3 +283,5 @@ section.popup-new	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^sectio
 .instructions-ctn .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row{$/;"	function	line:1277
 .instructions-ctn .row > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row > div{$/;"	function	line:1281
 .linegraph-instructions	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-instructions{$/;"	function	line:1288
+.course-sel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-sel{$/;"	function	line:1291
+.table-work tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-work tbody tr td:last-child{$/;"	function	line:1303
