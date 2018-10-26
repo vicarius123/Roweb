@@ -670,6 +670,7 @@ select.contract-selector {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  min-height: 270px;
 }
 .balance-ctn .small-wrapper {
   height: calc(100% - 69px);
@@ -1302,4 +1303,51 @@ section.popup-new {
 }
 .table-work tbody tr td:last-child{
   text-align: left;
+}
+.payment-ctn{
+  padding-top:30px;
+}
+
+input[type=radio].css-checkbox {
+  position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
+}
+
+input[type=radio].css-checkbox + label.css-label {
+  padding-left:35px;
+  height:20px;
+  display:inline-block;
+  line-height:20px;
+  background-repeat:no-repeat;
+  background-position: 0 0;
+  font-size:15px;
+  vertical-align:middle;
+  cursor:pointer;
+
+}
+input[type=radio].css-checkbox:checked + label.css-label {
+  background-position: 0 -20px;
+}
+label.css-label {
+  background-image:url('/images/radio.png');
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-size:20px;
+}
+.payment-radios{
+  padding-top: 30px;
+}
+.payment-bottom {
+  margin-top: 40px;
+}
+.payment-sep {
+  border-top: 1px solid #dadada;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  font-size: 13px;
+  font-family: 'Museo Cyrl 500';
+  color: #aaa;
 }
