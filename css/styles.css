@@ -169,6 +169,18 @@ html,body{
   font-size: 15px;
   height: 100%;
 }
+::-webkit-input-placeholder{
+  font-size:12px;
+}
+::-moz-placeholder{
+  font-size:12px;
+}
+:-ms-input-placeholder{
+  font-size:12px;
+}
+:-moz-placeholder{
+  font-size:12px;
+}
 *{
   -webkit-font-smoothing: antialiased;
 }
@@ -185,6 +197,12 @@ b{
   background-size: cover;
   min-height: 750px;
   height: 100%;
+}
+.breadcrumbs {
+  font-size: 12px;
+  font-family: 'Museo Sans Cyrl 300';
+  line-height: 1.87;
+  margin-top: -37px;
 }
 .new-fluid{
   padding: 44px 100px 0px 100px;
@@ -1354,6 +1372,7 @@ label.css-label {
   font-size: 13px;
   font-family: 'Museo Cyrl 500';
   color: #aaa;
+  line-height: normal;
 }
 .vacations-ctn{
   margin-top:30px;
@@ -1400,4 +1419,110 @@ label.css-label {
 }
 .table_info thead tr th{
   border-color:#abcd45
+}
+
+/** Profile page**/
+.btn-profile{
+  border-radius: 20px;
+  background-color: #3aa9d1;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  color: #fff !important;
+  font-size: 13px;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 9px 15px;
+  text-decoration: none !important;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+.profile-info > h2{
+  border-bottom: solid 2px #3aa9d1;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+.profile-pic{
+  margin-bottom:38px;
+  width: 190px;
+  height: 190px;
+  margin-left:auto;
+  margin-right: auto;
+}
+.profile-ctn{
+  padding: 15px 0px;
+
+}
+.profile-pic img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/**Template page**/
+
+.template-ctn{
+  padding: 15px 0px;
+}
+.template-input{
+  border: 0px;
+  border-bottom: solid 1px #dadada;
+  width:80%;
+}
+.template-input:focus{
+  border-bottom: solid 1px #f9c623;
+}
+h2.normal{
+  font-family: 'Museo Sans Cyrl 500';
+}
+.template-textarea{
+  width:100%;
+  min-height: 220px;
+  padding:15px 30px;
+  resize: none;
+  box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+  border:0px;
+  border-radius: 10px;
+}
+.template-table-ctn{
+  width:100%;
+  padding:15px 30px;
+  resize: none;
+  box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+  border:0px;
+  border-radius: 10px;
+}
+.table-template thead tr th {
+  font-size: 14px;
+  font-family: 'Museo Cyrl 700';
+  border-bottom: solid 2px #f9c623;
+  padding: 23px 0px 13px 0px;
+}
+.table-template td:first-child{
+  font-size: 14px;
+  font-family: 'Museo Cyrl 700';
+}
+.table-template td{
+  padding: 20px 0px;
+  border:0px;
+  vertical-align: bottom;
+}
+.add-table {
+  margin-left: -8px;
+}
+.btn-yellow {
+  border-radius: 20px;
+  background-color: #f9c623;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  color: #fff !important;
+  font-size: 13px;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 9px 15px;
+  text-decoration: none !important;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
 }

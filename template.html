@@ -4,6 +4,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
@@ -11,7 +12,9 @@
   <title>RoWeb - Main</title>
 </head>
 <body>
+
   <header class="main-header main-fluid">
+
     <div class="row flex-middle">
       <div class="col col-logo">
         <img src="/images/logo-inner.svg">
@@ -32,11 +35,14 @@
               <a href="#" class="lang-switcher-in">Eng</a>
             </div>
           </div>
+
           <a href="#" class="btn-red">Выйти</a>
         </div>
       </div>
     </div>
+
   </header>
+
   <div class="main-content ">
     <div class="main-inner-ctn row">
       <div class="col left-panel">
@@ -103,73 +109,93 @@
             <img src="/images/logo-foo-left.svg" />
           </div>
         </div>
+
+
       </div>
       <div class="col right-content">
         <div class="breadcrumbs">
           <p>
-            Заявки > Справки
+            Обучение > Шаблоны
           </p>
         </div>
         <div class="row">
-          <div class="col-sm-8">
+          <div class="col-sm-12">
             <div class="inner-container">
-              <div class="inner-header abcd45">
-                <h1 class="nomargin">
-                  Справки
-                </h1>
+              <div class="inner-header f9c623">
+                <div class="d-flex align-items-center justify-content-between">
+                  <div class="fill-flex">
+                    <p class="nomargin">
+                      Эссе
+                    </p>
+                  </div>
+                </div>
               </div>
               <div class="small-wrapper">
-                <div class="vacations-ctn">
-                  <b class="medium">Вид справки</b>
-                  <div class="payment-radios">
-                    <input type="radio" name="radiog_dark" id="radio4" class="css-checkbox" checked="checked"><label for="radio4" class="css-label radGroup2">Для предъявления по месту требования</label>
-                  </div>
-                  <div class="mt-3">
-                    <input type="radio" name="radiog_dark" id="radio5" class="css-checkbox"><label for="radio5" class="css-label radGroup2">Справка-вызов (или справка о сроках сессии)</label>
-                  </div>
+                <div class="template-ctn">
+                  <h2>Требования к написанию</h2>
+                  <p>
+                    Эссе включает основную часть (1 главу) и список использованных интернет-ресурсов (минимум 3 источника).<br />
+                    Размер работы составляет 5-7 страниц.
+                  </p>
                   <br />
-                  <b class="medium">Количество копий </b>
-                  <div class="range-ctn">
-                    <div class="d-flex align-items-center">
-                      <button class="range-minus"><img src="/images/btn-minus.svg" /></button>
-                      <span class="range-value">1</span>
-                      <button class="range-plus"><img src="/images/btn-plus.svg" /></button>
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <label class="label" for="input1"><b class="medium">Название дисциплины</b></label><br />
+                      <input type="text" class="template-input" id="input1" placeholder="placehoder"/>
+                    </div>
+                    <div class="col-sm-6">
+                      <label class="label" for="input2"><b class="medium">Тема работы</b></label><br />
+                      <input type="text" class="template-input" id="input2" placeholder="placehoder"/>
                     </div>
                   </div>
+                  <br /><br />
+                  <h2 class="normal">Основная часть</h2>
                   <br />
-                  <b class="medium">Место получения справки</b>
-                  <div class="payment-radios">
-                    <input type="radio" name="radiog_dark2" id="radio6" class="css-checkbox" checked="checked"><label for="radio6" class="css-label radGroup2">Центр доступа</label>
-                  </div>
-                  <div class="mt-3">
-                    <input type="radio" name="radiog_dark2" id="radio7" class="css-checkbox"><label for="radio7" class="css-label radGroup2">Головной офис УМНЕЙ (г. Москва, ул. Нижегородская, д.32, стр. 4)</label>
-                  </div>
-
-                  <a href="#" class="btn-green my-5">Подать заявку</a>
-                  <h2 class="pb-0">Заказанные справки</h2>
-                  <table class="table new-table table-1 table_info">
-                  <thead>
-                    <tr>
-                      <th class="pr-4">Дата заявки</th>
-                      <th>Вид справки</th>
-                      <th>Состояние</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>24.07.18</td>
-                      <td>По месту требования (Головной офис УМНЕЙ)</td>
-                      <td>Готово</td>
-                    </tr>
-
-                  </tbody>
-                </table>
+                  <textarea class="template-textarea" placeholder="Текст работы"></textarea>
+                  <br /><br /><br />
+                  <h2 class="normal">Список использованных интернет-ресурсов</h2>
                   <br />
+                  <div class="template-table-ctn">
+                    <table class="table table-template">
+                      <thead>
+                        <tr>
+                          <th class="">№</th>
+                          <th>Название ресурса</th>
+                          <th>Ссылка на источник</th>
+
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                        </tr>
+                        <tr>
+                          <td>3</td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                          <td><input type="text" class="template-input" placeholder="placehoder"/></td>
+                        </tr>
+
+                      </tbody>
+                    </table>
+                    <a href="#" class="add-table"><img src="/images/plus-table.svg" /></a>
+                  </div>
                 </div>
+                <br />
+                <a href="#" class="btn-yellow">Готово</a>
+                <br /><br />
               </div>
             </div>
           </div>
+
         </div>
+
         <footer class="foo-main">
           <div class="text-center">
             <p class="">
@@ -178,10 +204,14 @@
             <a href="#"><u>Политика в отношении обработки персональных данных</u></a><br>
             <a href="#"><u>Пользовательское соглашение</u></a>
           </div>
+
         </footer>
       </div>
+
     </div>
   </div>
+
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>

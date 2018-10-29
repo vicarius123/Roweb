@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Обучение" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Шаблоны" transform="translate(-425.000000, -1177.000000)">
+            <g id="Group" transform="translate(426.000000, 1178.000000)">
+                <circle id="Oval" stroke="#F9C623" stroke-width="1.29411765" fill="#FFFFFF" fill-rule="nonzero" cx="10" cy="10" r="10"></circle>
+                <polygon id="+" fill="#000000" points="6.35 10.696 6.35 9.31 9.388 9.31 9.388 5.992 10.83 5.992 10.83 9.31 13.854 9.31 13.854 10.696 10.83 10.696 10.83 14 9.388 14 9.388 10.696"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
