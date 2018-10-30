@@ -12,4 +12,12 @@ $(document).ready(function(){
   $('i[data-toggle="tooltip"]') .tooltip({
     offset: '-40px, 6px'
   })
+
+  $('.mob-burger').click(function(e){
+    e.preventDefault();
+    $(this).toggleClass('active')
+    $('.left-panel').toggleClass('active');
+    $('.right-content').toggleClass('nonactive');
+    $('body').toggleClass('overflow-y');
+  })
 })

@@ -1,0 +1,263 @@
+@media (max-width: 1200px){
+  .new-fluid{
+    padding: 44px 50px 0px 50px;
+  }
+  .foo-logo-reg{
+    right: -50px;
+  }
+  .main-fluid{
+    padding: 0 30px;
+  }
+  .left-panel{
+    max-width:240px;
+  }
+  .right-content{
+    margin-left: 240px;
+  }
+  .left-panel .inner-panel{
+    padding-left: 30px;
+  }
+}
+@media (max-width: 768px){
+  .left-panel {
+    max-width: 50%;
+  }
+  footer.foo-main{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .main-content{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .right-content {
+    margin-left: 0;
+  }
+  .left-panel {
+    max-width: 50%;
+    transform: translate(-100%, 0px);
+    padding-left: 0;
+  }
+  .notif-icon > span{
+    top: -8px;
+    right: 8px;
+  }
+  header.main-header{
+    display:flex;
+  }
+  .breadcrumbs{
+    display:none;
+  }
+}
+@media (max-width: 767px){
+  .main-reg{
+    height:auto;
+  }
+  .planning-selector .w-50{
+    width: auto !important;
+  }
+  .planning-info > .row > .col-sm-4:first-child{
+    margin-bottom:8px;
+  }
+  .planning-info > .row > .col-sm-4:nth-child(2){
+    margin-bottom:17px;
+  }
+  .planning-btns > div{
+    padding:15px 0;
+  }
+  .planning-info > .row > .col-sm-4:last-child{
+    border-bottom: 1px solid #dadada;
+    padding: 0;
+    padding-bottom: 20px;
+    margin: 0 15px;
+  }
+  .mob-head{
+
+  }
+  .calendar-legend{
+    margin:0;
+  }
+  .right-content{
+    padding-bottom:0px;
+  }
+  footer.foo-main{
+    position: relative;
+    background-color: #f6f6f6;
+  }
+  .debs-mob{
+    position: relative;
+    top: -7px;
+  }
+  .new-table thead{
+    display: none;
+  }
+  .new-table.table-2 tbody tr td:last-child{
+    text-align: center
+  }
+  .progress-number{
+    margin-left:15px;
+  }
+  .new-table tbody tr td{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:16px;
+  }
+  .new-table tbody tr td:last-child{
+    padding-bottom:30px;
+  }
+  .table-1 tbody td:first-child{
+    padding-top:30px;
+  }
+  .new-progress{
+    height:30px;
+  }
+  .notif-icon > span {
+    top: -9px;
+    right: -7px;
+  }
+  header.main-header{
+    height:90px;
+    display:flex;
+  }
+  .main-content{
+    padding-top:90px;
+  }
+  .main-logo{
+    max-width: 150px;
+  }
+  .tool-nav{
+    margin:0;
+    padding:0px;
+  }
+  .new-fluid{
+    padding: 30px 30px 0px 30px;
+  }
+  .foo-logo-reg{
+    display:none;
+  }
+  .blind-selector{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .reg-phone{
+    margin-top: 30px;
+  }
+  button.btn-new.btn-green{
+    margin-top: 30px;
+  }
+  .logo-register{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .logo-register img{
+    max-width: 200px
+  }
+  .blind-selector a{
+    font-size:24px;
+  }
+  .blind-selector img{
+    height:30px;
+  }
+  #myTab a{
+    font-size:28px;
+  }
+  input[type=checkbox].css-checkbox + label.css-label, .password-forgot a{
+    font-size:16px;
+  }
+  .main-reg input{
+    font-size:14px;
+  }
+  .login-form{
+    max-width: 100%;
+  }
+  .reg-phone b{
+    font-size: 18px;
+    font-family: 'Museo Sans Cyrl 500';
+  }
+  .reg-phone p{
+    font-size:16px;
+  }
+  .soc-reg img{
+    padding:0 10px;
+    height:50px;
+  }
+  .soc-reg {
+    margin: 0 -10px;
+  }
+  .main-reg{
+    background: url(/images/bg-reg.jpg) bottom right no-repeat;
+    background-size: cover;
+  }
+  .left-panel{
+    top:90px;
+    max-width: 100%;
+  }
+  .inner-header{
+    padding: 17px 25px;
+  }
+  .small-wrapper {
+    padding: 0 25px;
+  }
+  .pop-wrapper, .popup-planning .pop-wrapper{
+    padding: 20px 30px 40px 30px;
+    overflow: scroll;
+  }
+  .right-content{
+    padding-top:35px;
+  }
+  .inner-header{
+    line-height: normal;
+  }
+  .btns-plan-pop{
+    margin-top: 15px;
+    text-align: center;
+  }
+  .btns-plan-pop a{
+    margin: 15px 0px;
+  }
+  .profile-pic{
+    margin-bottom:50px;
+  }
+  .btn-profile{
+    margin-bottom:50px;
+  }
+  .template-ctn .col-sm-6 {
+    margin-bottom: 15px;
+  }
+
+  .template-table-ctn{
+    padding: 15px 15px;
+  }
+  .table-template thead tr th{
+    padding: 23px 9px 13px 0px;
+  }
+  .course-sel{
+    font-size: 14px;
+  }
+}
+@media (max-width: 360px){
+  .inner-header{
+    padding: 17px 15px;
+    line-height: normal;
+  }
+  .academic_sel{
+    font-size: 13px;
+  }
+  .small-wrapper {
+    padding: 0 15px;
+  }
+  .new-fluid {
+    padding: 30px 15px 0px 15px;
+  }
+  .soc-reg img{
+    padding: 0 5px;
+  }
+  .right-content{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .main-fluid {
+    padding: 0 15px;
+  }
+}
