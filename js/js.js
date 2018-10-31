@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  if(jQuery('#calendar').length > 0){
+  if($('#calendar').length > 0){
     $( "#calendar" ).datepicker({
       monthNames: ['Январь','Февраль','Март','Апрель','Май','Июнь',
       'Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'],
@@ -20,4 +20,58 @@ $(document).ready(function(){
     $('.right-content').toggleClass('nonactive');
     $('body').toggleClass('overflow-y');
   })
+
+  $('.menu-item').click(function(e){
+
+    if($(this).next('.submenu').length > 0){
+      console.log($(this).next('.submenu'))
+      e.preventDefault();
+    }
+    $(this).next().slideToggle();
+  })
+
+  $('.close_b').click(function(){
+    $('.more_op').fadeToggle();
+
+    $('.footer *').removeAttr('style');
+    $('.footer').removeAttr('style');
+
+    $('body').css('transform','scale(1)');
+  });
+
+  $('.eye-switcher').click(function(){
+    $('.more_op').fadeToggle();
+  })
+
+  $('.black_c').click(function(e){
+    e.preventDefault();
+    $('body').removeClass('blue-black');
+    $('body').addClass('black-white')
+  })
+  $('.blue_c').click(function(e){
+    e.preventDefault();
+    $('body').removeClass('black-white')
+    $('body').addClass('blue-black');
+  })
+
+  $('.big').click(function(){
+    $('body').css('transform','scale(1.1)');
+
+  });
+
+  $('.bigger').click(function(){
+    $('body').css('transform','scale(1.3)');
+
+  });
+  $('.biggest').click(function(){
+    $('body').css('transform','scale(1.5)');
+  });
+
+  _imgs = ['/images/bg-reg.jpg', '/images/Bg_1.jpg', '/images/Bg_2.jpg']
+  function getRandomInt(min, max) {
+    _result = Math.floor(Math.random() * (max - min)) + min;
+    $('.main-reg').css('background-image', 'url('+_imgs[_result]+')')
+  }
+
+  getRandomInt(0, 3);
 })

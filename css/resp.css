@@ -17,6 +17,9 @@
   .left-panel .inner-panel{
     padding-left: 30px;
   }
+  .panel-group .submenu li {
+    padding-top: 15px;
+  }
 }
 @media (max-width: 768px){
   .left-panel {
@@ -48,10 +51,31 @@
   .breadcrumbs{
     display:none;
   }
+  select.contract-selector{
+    border: 0;
+    border-bottom: solid 2px #f55f68;
+    border-radius: 0px;
+    padding-left: 0;
+    padding-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 0px;
+    background-position-x: 100%;
+  }
+  .panel-group a:not(.btn-red){
+    font-size: 18px;
+  }
+  .panel-group .submenu a{
+    font-size:15px;
+  }
+  .panel-group .submenu li {
+    padding-top: 30px;
+  }
+
 }
 @media (max-width: 767px){
   .main-reg{
     height:auto;
+    min-height: 100vh;
   }
   .planning-selector .w-50{
     width: auto !important;

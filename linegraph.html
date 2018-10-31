@@ -12,10 +12,32 @@
   <title>RoWeb - Main</title>
 </head>
 <body>
+  <div class="more_op">
+    <div class="more_inn">
+      <div class="more_inn_txt">
+        <p>Версия сайта<br>для слабовидящих</p>
+      </div>
+      <div class="font_type">
+        <span>ШРИФТ:</span>
+        <a href="#" class="big">A</a>
+        <a href="#" class="bigger">A</a>
+        <a href="#" class="biggest">A</a>
+      </div>
+      <div class="color_site">
+        <span>ЦВЕТ САЙТА:</span>
+        <a href="#" class="black_c">A</a>
+        <a href="#" class="blue_c">A</a>
+      </div>
+      <br clear="all">
+      <a href="#" class="close_b">
+        <img src="/images/pop-close.svg">
+      </a>
+    </div>
+  </div>
   <header class="main-header main-fluid">
     <div class="row flex-middle d-lg-flex d-none">
       <div class="col col-logo">
-        <img src="/images/logo-inner.svg">
+        <img src="/images/logo-inner.svg" class="deskt-logo">
       </div>
       <div class="col col-header text-center">
         <div class="header-nav">
@@ -27,9 +49,9 @@
               <option>00000000000000003</option>
             </select>
             <div class="tool-nav">
-              <a href="#"><img src="/images/profile-icn.svg" /></a>
+              <a href="profile.html"><img src="/images/profile-icn.svg" /></a>
               <a href="#" class="notif-icon"><img src="/images/notifications-icn.svg" /><span>1</span></a>
-              <a href="#"><img src="/images/eye-blk.svg" /></a>
+              <a href="#" class="eye-switcher"><img src="/images/eye-blk.svg" /></a>
               <a href="#" class="lang-switcher-in">Eng</a>
             </div>
           </div>
@@ -61,7 +83,7 @@
         <div>
           <div class="inner-panel">
             <div class="panel-group">
-              <a href="#">
+              <a href="planning.html" class="menu-item">
                 <div>
                   <img src="/images/icon-1.svg" />
                 </div>
@@ -69,31 +91,77 @@
               </a>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="#" class="menu-item active-menu">
                 <div>
                   <img src="/images/icon-2.svg" />
                 </div>
                 <span>Обучение</span>
               </a>
+              <ul class="submenu" style="display:block;">
+                <li>
+                  <a href="linegraph.html" class="active">Учебный план</a>
+                </li>
+                <li>
+                  <a href="documents.html">Документы на практику</a>
+                </li>
+                <li>
+                  <a href="#">Библиотека</a>
+                </li>
+                <li>
+                  <a href="template.html">Шаблоны</a>
+                </li>
+                <li>
+                  <a href="#">Лекции</a>
+                </li>
+                <li>
+                  <a href="#">Виртуальная аудитория для проведения групповых и индвивидуальных консультаций</a>
+                </li>
+                <li>
+                  <a href="#">Тест на реакцию</a>
+                </li>
+              </ul>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="#" class="menu-item">
                 <div>
                   <img src="/images/icon-3.svg" />
                 </div>
                 <span>Электронное<br />портфолио</span>
               </a>
+              <ul class="submenu">
+                <li>
+                  <a href="writting.html">Письменные работы</a>
+                </li>
+                <li>
+                  <a href="#">Практики</a>
+                </li>
+                <li>
+                  <a href="#">Устные виды занятий</a>
+                </li>
+                <li>
+                  <a href="#">Конспекты</a>
+                </li>
+              </ul>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="#" class="menu-item">
                 <div>
                   <img src="/images/icon-4.svg" />
                 </div>
                 <span>Заявки</span>
               </a>
+              <ul class="submenu">
+                <li>
+                  <a href="info.html">Справки</a>
+                </li>
+                <li>
+                  <a href="academic_vacations.html">Академический отпуск</a>
+                </li>
+
+              </ul>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="payments.html" class="menu-item">
                 <div>
                   <img src="/images/icon-5.svg" />
                 </div>
@@ -101,7 +169,7 @@
               </a>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="#"  class="menu-item">
                 <div>
                   <img src="/images/icon-6.svg" />
                 </div>
@@ -109,12 +177,55 @@
               </a>
             </div>
             <div class="panel-group">
-              <a href="#">
+              <a href="#" style="color:#f55f68">
                 <div>
                   <img src="/images/icon-7.svg" />
                 </div>
                 <span>Приведи друга</span>
               </a>
+            </div>
+            <div class="menu-mob d-block d-lg-none">
+              <div class="panel-group">
+                <a href="profile.html">
+                  <div>
+                    <img src="/images/profile-icn.svg" />
+                  </div>
+                  <span>Профиль</span>
+                </a>
+              </div>
+              <div class="panel-group">
+                <a href="#">
+                  <div>
+                    <img src="/images/change-icn-mob.svg" />
+                  </div>
+                  <span>
+                    <b class="medium">ID</b>
+                    <select class="contract-selector">
+                      <option selected="">00000000000000001</option>
+                      <option>00000000000000002</option>
+                      <option>00000000000000003</option>
+                    </select>
+                  </span>
+                </a>
+              </div>
+              <div class="panel-group">
+                <a href="#" class="eye-switcher">
+                  <div>
+                    <img src="/images/eye-blk.svg" />
+                  </div>
+                  <span>Версия для слабовидящих</span>
+                </a>
+              </div>
+              <div class="panel-group">
+                <a href="#">
+                  <div>
+                    Eng
+                  </div>
+                </a>
+              </div>
+              <div class="panel-group">
+                <a href="#" class="btn-red">Выйти</a>
+              </div>
             </div>
           </div>
           <div class="logo-main-left">
