@@ -169,6 +169,7 @@ html,body{
   font-size: 15px;
   height: 100%;
   transform-origin: left top;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
 }
 
 ::-webkit-input-placeholder{
@@ -1826,4 +1827,8 @@ label.css-label-red {
 
 .blue-black .flex-linegraph .flex-fill::before{
   border: 1px solid #fff;
+}
+
+.left-panel::-webkit-scrollbar{
+  display:none;
 }
