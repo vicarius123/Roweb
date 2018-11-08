@@ -168,7 +168,8 @@ html,body{
   line-height: 1.49;
   font-size: 15px;
   height: 100%;
-  transform-origin: left top;
+  -webkit-transform-origin: left top;
+          transform-origin: left top;
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
 
@@ -410,6 +411,8 @@ select.contract-selector {
   border-radius: 20px;
   border: solid 2px #f55f68;
   -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
   padding: 4px 25px 4px 16px;
   font-size: 14px;
   background: url(/images/sel-arrow.svg)no-repeat center;
@@ -468,6 +471,7 @@ select.contract-selector {
   padding-top: 65px;
   bottom: 0;
   overflow-y: auto;
+  -webkit-transition: all .3s ease-in;
   transition: all .3s ease-in;
 }
 .panel-group div {
@@ -859,7 +863,8 @@ footer.foo-main {
   background: #fff;
   padding: 20px 50px 40px 50px;
   border-radius: 10px;
-  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.1);
   overflow: auto;
   max-height: 90%;
 }
@@ -956,7 +961,8 @@ section.popup-new {
   color: #aaaaaa;
   line-height: 1;
   font-family: 'Museo Cyrl 700';
-  text-decoration: underline dashed;
+  -webkit-text-decoration: underline dashed;
+          text-decoration: underline dashed;
 }
 .planning-pills a.active,.planning-pills a:hover{
   text-decoration: underline !important;
@@ -1367,7 +1373,6 @@ label.css-label-r {
   background-image:url('/images/radio.png');
   -webkit-touch-callout: none;
   -webkit-user-select: none;
-  -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
@@ -1472,8 +1477,10 @@ label.css-label-r {
 .profile-pic img{
   height: 100%;
   width: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
 }
 /**Template page**/
 .template-ctn{
@@ -1495,7 +1502,8 @@ h2.normal{
   min-height: 220px;
   padding:15px 30px;
   resize: none;
-  box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
   border:0px;
   border-radius: 10px;
 }
@@ -1503,7 +1511,8 @@ h2.normal{
   width:100%;
   padding:15px 30px;
   resize: none;
-  box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.2);
   border:0px;
   border-radius: 10px;
 }
@@ -1562,7 +1571,6 @@ label.css-label-red {
   background-image:url('/images/checkbox-red.png');
   -webkit-touch-callout: none;
   -webkit-user-select: none;
-  -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
@@ -1582,7 +1590,10 @@ label.css-label-red {
   margin-bottom:9px;
   position:relative;
   -webkit-transition: transform .3s ease, top .3s .3s ease;
+  -webkit-transition: top .3s .3s ease, -webkit-transform .3s ease;
+  transition: top .3s .3s ease, -webkit-transform .3s ease;
   transition: transform .3s ease, top .3s .3s ease;
+  transition: transform .3s ease, top .3s .3s ease, -webkit-transform .3s ease;
 }
 .mob-burger div:first-child{
   top: 0px;
@@ -1593,25 +1604,36 @@ label.css-label-red {
 }
 .mob-burger.active div:first-child {
   top: 11px;
-  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
   -webkit-transition: transform .3s .3s ease, top .3s ease;
+  -webkit-transition: top .3s ease-out, -webkit-transform .3s .3s ease;
+  transition: top .3s ease-out, -webkit-transform .3s .3s ease;
   transition: transform .3s .3s ease, top .3s ease-out;
+  transition: transform .3s .3s ease, top .3s ease-out, -webkit-transform .3s .3s ease;
 }
 .mob-burger.active div:nth-child(2) {
-  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
   -webkit-transition: transform .3s .3s ease;
 }
 .mob-burger.active div:last-child {
   top: -11px;
-  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
   -webkit-transition: transform .3s .3s ease, top .3s ease;
+  -webkit-transition: top .3s ease, -webkit-transform .3s .3s ease;
+  transition: top .3s ease, -webkit-transform .3s .3s ease;
   transition: transform .3s .3s ease, top .3s ease;
+  transition: transform .3s .3s ease, top .3s ease, -webkit-transform .3s .3s ease;
 }
 .left-panel.active{
-  transform: translate(0px, 0px);
+  -webkit-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
 }
 .right-content::before{
   content:'';
+  -webkit-transition:all .3s;
   transition:all .3s;
   background:transparent;
 }
@@ -1711,9 +1733,15 @@ label.css-label-red {
   padding: 5px 15px 5px 15px;
   border: 1px solid #959595;
   position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   pointer-events: all;
   max-width: 500px;
 }
@@ -1795,17 +1823,20 @@ label.css-label-red {
   background:#fff !important;
 }
 .black-white img:not(.main-logo):not(.deskt-logo):not(.foo-logo-reg){
-  filter: invert(100%);
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
   background: #fff !important;
 }
 .black-white .deskt-logo{
   background: #fff;
 }
 .black-white .ui-widget-header .ui-icon{
-  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+          filter: invert(100%) !important;
 }
 .black-white .logo-main-left img, .black-white .foo-logo-reg, .black-white .foo-logo-reg, .black-white .soc-reg img{
-  filter: invert(0%) !important;
+  -webkit-filter: invert(0%) !important;
+          filter: invert(0%) !important;
 }
 
 
@@ -1822,7 +1853,8 @@ label.css-label-red {
   background: #000 !important;
 }
 .blue-black .ui-widget-header .ui-icon{
-  filter: invert(100%) !important;
+  -webkit-filter: invert(100%) !important;
+          filter: invert(100%) !important;
 }
 
 .blue-black .flex-linegraph .flex-fill::before{
