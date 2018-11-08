@@ -1829,6 +1829,9 @@ label.css-label-red {
   border: 1px solid #fff;
 }
 
+.left-panel{
+  -ms-overflow-style:none;
+}
 .left-panel::-webkit-scrollbar{
   display:none;
 }
