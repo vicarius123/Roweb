@@ -1867,7 +1867,7 @@ label.css-label-red {
   background: #fff !important;
 }
 .logo-main-left{
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   opacity:0.5
