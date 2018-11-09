@@ -4,4 +4,4 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:71
+getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:79

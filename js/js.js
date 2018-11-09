@@ -37,6 +37,8 @@ $(document).ready(function(){
     $('.footer').removeAttr('style');
 
     $('body').css('transform','scale(1)');
+    jQuery('body').removeClass('black-white')
+    jQuery('body').removeClass('blue-black')
   });
 
   $('.eye-switcher').click(function(){
@@ -67,6 +69,12 @@ $(document).ready(function(){
     $('body').css('transform','scale(1.5)');
   });
 
+  $('.normal_c').click(function(e){
+    e.preventDefault();
+    jQuery('body').removeClass('black-white')
+    jQuery('body').removeClass('blue-black')
+  })
+
   _imgs = ['/images/bg-reg.jpg', '/images/Bg_1.jpg', '/images/Bg_2.jpg']
   function getRandomInt(min, max) {
     _result = Math.floor(Math.random() * (max - min)) + min;
@@ -74,4 +82,6 @@ $(document).ready(function(){
   }
 
   getRandomInt(0, 3);
+
+
 })
