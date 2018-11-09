@@ -4235,6 +4235,7 @@ script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:397
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/jquery-ui.min.js"><\/script>$/;"	function	line:398
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:399
+getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:79
 @font-face	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^@font-face {$/;"	function	line:1
 src: url('/fonts/MuseoCyrl-700.eot?#iefix') format('embedded-opentype')	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^  src: url('\/fonts\/MuseoCyrl-700.eot?#iefix') format('embedded-opentype'),$/;"	function	line:4
 url('/fonts/MuseoCyrl-700.woff2') format('woff2')	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^  url('\/fonts\/MuseoCyrl-700.woff2') format('woff2'),$/;"	function	line:5
@@ -4316,310 +4317,310 @@ html,body	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^html,body{$/;"
 :-ms-input-placeholder	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^:-ms-input-placeholder{$/;"	function	line:181
 :-moz-placeholder	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^:-moz-placeholder{$/;"	function	line:184
 *	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^*{$/;"	function	line:187
-b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^b{$/;"	function	line:190
-*	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^*{$/;"	function	line:193
-.main-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg{$/;"	function	line:197
-.breadcrumbs	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.breadcrumbs {$/;"	function	line:204
-.new-fluid	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-fluid{$/;"	function	line:210
-.blind-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector{$/;"	function	line:222
-.blind-selector a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector a{$/;"	function	line:226
-.blind-selector a:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector a:first-child{$/;"	function	line:230
-.white	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.white{$/;"	function	line:233
-.reg-phone p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone p{$/;"	function	line:236
-.reg-phone b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone b{$/;"	function	line:239
-.reg-phone a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone a{$/;"	function	line:242
-.reg-phone	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone {$/;"	function	line:248
-.soc-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.soc-reg{$/;"	function	line:252
-.soc-reg a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.soc-reg a{$/;"	function	line:255
-.login-form	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.login-form{$/;"	function	line:258
-.login-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.login-ctn{$/;"	function	line:263
-#myTab	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab{$/;"	function	line:272
-#myTab a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab a{$/;"	function	line:282
-#myTab a.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab a.active{$/;"	function	line:290
-.main-reg input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg input {$/;"	function	line:293
-.main-reg input::-webkit-input-placeholder	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg input::-webkit-input-placeholder{$/;"	function	line:303
-input[type=checkbox].css-checkbox	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox {$/;"	function	line:306
-input[type=checkbox].css-checkbox + label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox + label.css-label {$/;"	function	line:309
-input[type=checkbox].css-checkbox:checked + label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox:checked + label.css-label {$/;"	function	line:322
-label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label {$/;"	function	line:325
-.password-forgot a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.password-forgot a{$/;"	function	line:333
-.align-center	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.align-center{$/;"	function	line:337
-button.btn-new.btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^button.btn-new.btn-green {$/;"	function	line:342
-h1, .h1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h1, .h1{$/;"	function	line:351
-h2, .h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h2, .h2{$/;"	function	line:355
-.nomargin	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.nomargin{$/;"	function	line:359
-.main-reg header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg header{$/;"	function	line:362
-.foo-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-reg{$/;"	function	line:365
-.foo-reg a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-reg a{$/;"	function	line:373
-.foo-logo-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-logo-reg{$/;"	function	line:377
-.main-fluid	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-fluid {$/;"	function	line:383
-.col-logo	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.col-logo {$/;"	function	line:387
-header.main-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^header.main-header {$/;"	function	line:390
-.flex-middle	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-middle{$/;"	function	line:401
-.main-header > .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-header > .row{$/;"	function	line:406
-select.contract-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^select.contract-selector {$/;"	function	line:409
-.contract-select b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.contract-select b{$/;"	function	line:420
-.contract-select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.contract-select{$/;"	function	line:425
-.tool-nav	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tool-nav{$/;"	function	line:430
-.tool-nav a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tool-nav a{$/;"	function	line:435
-.lang-switcher-in	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lang-switcher-in{$/;"	function	line:438
-.btn-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-red{$/;"	function	line:443
-.header-nav	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.header-nav{$/;"	function	line:458
-.left-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel{$/;"	function	line:463
-.panel-group div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group div {$/;"	function	line:476
-.panel-group a:not(.btn-red)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group a:not(.btn-red) {$/;"	function	line:481
-.panel-group	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group {$/;"	function	line:494
-.main-content	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-content{$/;"	function	line:497
-.main-inner-ctn.row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-inner-ctn.row {$/;"	function	line:501
-.right-content	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content{$/;"	function	line:504
-.right-content > .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content > .row{$/;"	function	line:512
-.new-table tbody tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr{$/;"	function	line:515
-.new-table tbody tr:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr:last-child{$/;"	function	line:518
-.new-table tbody tr td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr td{$/;"	function	line:521
-.new-table tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr td:last-child{$/;"	function	line:530
-.new-table thead tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table thead tr{$/;"	function	line:534
-.new-table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table{$/;"	function	line:536
-.new-table thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table thead tr th{$/;"	function	line:539
-.new-progress span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-progress span {$/;"	function	line:545
-.new-progress	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-progress {$/;"	function	line:551
-.inner-container	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-container {$/;"	function	line:560
-.inner-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header{$/;"	function	line:568
-.f9c623	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.f9c623{$/;"	function	line:574
-.small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.small-wrapper{$/;"	function	line:577
-.table-1 tbody td:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-1 tbody td:first-child{$/;"	function	line:580
-.aa9d1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.aa9d1{$/;"	function	line:585
-#calendar .ui-datepicker	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker{$/;"	function	line:589
-#calendar .ui-datepicker .ui-datepicker-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-header {$/;"	function	line:594
-#calendar .ui-datepicker .ui-datepicker-prev	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-prev{$/;"	function	line:605
-#calendar .ui-datepicker .ui-datepicker-next	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-next{$/;"	function	line:611
-#calendar .ui-datepicker .ui-datepicker-prev .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-prev .ui-icon {$/;"	function	line:617
-#calendar .ui-datepicker .ui-datepicker-next .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-next .ui-icon {$/;"	function	line:621
-#calendar .ui-datepicker th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker th{$/;"	function	line:625
-#calendar .ui-datepicker th.ui-datepicker-week-end	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker th.ui-datepicker-week-end{$/;"	function	line:630
-.calendar-ctn .small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.calendar-ctn .small-wrapper{$/;"	function	line:633
-#calendar .ui-datepicker td span, .ui-datepicker td a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker td span, .ui-datepicker td a{$/;"	function	line:636
-.legend-group	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group{$/;"	function	line:643
-.legend-group:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group:before{$/;"	function	line:649
-.legend-group.session:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.session:before{$/;"	function	line:657
-.legend-group.practice:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.practice:before{$/;"	function	line:660
-.legend-group.self-recording:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.self-recording:before{$/;"	function	line:663
-.legend-group.examination:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.examination:before{$/;"	function	line:666
-.f55f68	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.f55f68{$/;"	function	line:669
-.inner-header small	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header small{$/;"	function	line:672
-.new-table.table-2 thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table.table-2 thead tr th{$/;"	function	line:678
-.panel-group:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group:first-child{$/;"	function	line:682
-.abcd45	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.abcd45{$/;"	function	line:685
-.inner-header span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header span{$/;"	function	line:688
-.pushed-24	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pushed-24{$/;"	function	line:691
-.h-100	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.h-100{$/;"	function	line:694
-.balance	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance {$/;"	function	line:697
-.balance-ctn .small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance-ctn .small-wrapper {$/;"	function	line:705
-.balance p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance p{$/;"	function	line:708
-.btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-green{$/;"	function	line:714
-.balance .btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance .btn-green{$/;"	function	line:728
-footer.foo-main	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^footer.foo-main {$/;"	function	line:732
-.left-panel .inner-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel .inner-panel{$/;"	function	line:741
-.left-panel > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel > div{$/;"	function	line:748
-.notif-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon{$/;"	function	line:758
-.notif-icon > span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon > span{$/;"	function	line:761
-.notifications-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notifications-ctn{$/;"	function	line:776
-.notif-list ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul{$/;"	function	line:788
-.notif-ctn > strong	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-ctn > strong{$/;"	function	line:793
-.notif-list ul li span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li span{$/;"	function	line:801
-.notif-list ul li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li{$/;"	function	line:807
-.notif-list ul li.un-read	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li.un-read{$/;"	function	line:815
-.notif-list	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list {$/;"	function	line:818
-.notif-list::-webkit-scrollbar,.notif-list::-moz-scrollbar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar,.notif-list::-moz-scrollbar {$/;"	function	line:823
-.notif-list::-webkit-scrollbar-track,.notif-list::-moz-scrollbar-track	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar-track,.notif-list::-moz-scrollbar-track {$/;"	function	line:826
-.notif-list::-webkit-scrollbar-thumb,.notif-list::-moz-scrollbar-thumb	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar-thumb,.notif-list::-moz-scrollbar-thumb {$/;"	function	line:831
-.notif-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon{$/;"	function	line:836
-.notif-list li:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li:before {$/;"	function	line:839
-.notif-list li.read:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li.read:before{$/;"	function	line:849
-.notif-list li.un-read:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li.un-read:before{$/;"	function	line:852
-.pop-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-wrapper {$/;"	function	line:855
-section.popup-new	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^section.popup-new {$/;"	function	line:867
-.pop-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-title {$/;"	function	line:883
-.pop-date	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-date {$/;"	function	line:888
-.pop-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-header {$/;"	function	line:894
-.pop-close img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-close img {$/;"	function	line:898
-.planning-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-selector{$/;"	function	line:902
-.course-prev::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-prev::before{$/;"	function	line:904
-.course-next::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-next::before{$/;"	function	line:914
-.course-prev	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-prev{$/;"	function	line:924
-.course-next	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-next{$/;"	function	line:930
-.current-course	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course{$/;"	function	line:936
-.current-course > span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course > span{$/;"	function	line:941
-.current-course small	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course small{$/;"	function	line:944
-.planning-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-selector {$/;"	function	line:948
-.planning-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-ctn{$/;"	function	line:951
-.planning-pills a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a{$/;"	function	line:954
-.planning-pills a.active,.planning-pills a:hover	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a.active,.planning-pills a:hover{$/;"	function	line:963
-.planning-pills a:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a:last-child{$/;"	function	line:967
-.planning-info b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-info b{$/;"	function	line:970
-.planning-pills	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills{$/;"	function	line:975
-.btn-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-planning{$/;"	function	line:978
-.planning-info .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-info .row{$/;"	function	line:993
-.popup-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning{$/;"	function	line:996
-.popup-planning .pop-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-wrapper{$/;"	function	line:998
-.popup-planning .pop-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-header{$/;"	function	line:1006
-.medium	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.medium{$/;"	function	line:1009
-.popup-planning span.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span.active{$/;"	function	line:1012
-.popup-planning span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span{$/;"	function	line:1015
-.popup-planning .pop-content .d-flex:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-content .d-flex:first-child{$/;"	function	line:1018
-.table-3 tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-3 tbody tr td:last-child{$/;"	function	line:1023
-.linegraph-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-selector{$/;"	function	line:1026
-.linegraph-main > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-main > div{$/;"	function	line:1029
-.linegraph-main	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-main{$/;"	function	line:1032
-.course-1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-1{$/;"	function	line:1036
-.course-2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-2{$/;"	function	line:1039
-.course-3	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-3{$/;"	function	line:1042
-.course-4	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-4{$/;"	function	line:1045
-.course-5	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-5{$/;"	function	line:1048
-.course-6	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-6{$/;"	function	line:1051
-.course-7	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-7{$/;"	function	line:1054
-.course-8	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-8{$/;"	function	line:1057
-.linegraph-month .not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month .not-available{$/;"	function	line:1060
-.course-1.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-1.not-available{$/;"	function	line:1063
-.course-2.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-2.not-available{$/;"	function	line:1066
-.course-3.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-3.not-available{$/;"	function	line:1069
-.course-4.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-4.not-available{$/;"	function	line:1072
-.course-5.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-5.not-available{$/;"	function	line:1075
-.course-6.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-6.not-available{$/;"	function	line:1078
-.course-7.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-7.not-available{$/;"	function	line:1081
-.course-8.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-8.not-available{$/;"	function	line:1084
-.linegraph-month > div:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month > div:before{$/;"	function	line:1087
-.flex-vacation::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-vacation::after{$/;"	function	line:1097
-.linegraph-month > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month > div{$/;"	function	line:1107
-.linegraph-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-ctn {$/;"	function	line:1126
-.flex-linegraph	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph {$/;"	function	line:1133
-.flex-linegraph > .flex-fill	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph > .flex-fill{$/;"	function	line:1137
-.linegraph-month	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month{$/;"	function	line:1147
-.course-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-title{$/;"	function	line:1150
-.course-title.no-wrap	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-title.no-wrap{$/;"	function	line:1159
-.flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph .flex-fill::before{$/;"	function	line:1162
-.flex-linegraph .flex-fill:not(.empty-date):hover::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph .flex-fill:not(.empty-date):hover::before{$/;"	function	line:1174
-.course-number	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-number{$/;"	function	line:1179
-.course-ttl-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-ttl-r{$/;"	function	line:1189
-.payment-icn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-icn{$/;"	function	line:1192
-.change-icn::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.change-icn::after{$/;"	function	line:1200
-.linegraph-legend	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-legend{$/;"	function	line:1209
-.btn-planning.btn-yellow	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-planning.btn-yellow{$/;"	function	line:1212
-#linegraph-current::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current::before{$/;"	function	line:1215
-#linegraph-current::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current::after{$/;"	function	line:1223
-#linegraph-current	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current{$/;"	function	line:1234
-.tooltip.show	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tooltip.show {$/;"	function	line:1244
-.tooltip-inner	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tooltip-inner {$/;"	function	line:1247
-.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before{$/;"	function	line:1258
-.lgnd-date:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-date:before{$/;"	function	line:1261
-.lgnd-rub::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-rub::before{$/;"	function	line:1270
-.lgnd-change::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-change::before{$/;"	function	line:1280
-.lgnd-vacations::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-vacations::before{$/;"	function	line:1290
-.linegraph-instructions	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-instructions{$/;"	function	line:1299
-.table th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table th{$/;"	function	line:1302
-.table-instructions td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-instructions td{$/;"	function	line:1305
-.instructions-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-title{$/;"	function	line:1308
-.instructions-ctn .row:last-child > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row:last-child > div{$/;"	function	line:1316
-.instructions-ctn .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row{$/;"	function	line:1319
-.instructions-ctn .row > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row > div{$/;"	function	line:1323
-.linegraph-instructions	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-instructions{$/;"	function	line:1330
-.course-sel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-sel{$/;"	function	line:1333
-.table-work tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-work tbody tr td:last-child{$/;"	function	line:1345
-.payment-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-ctn{$/;"	function	line:1348
-input[type=radio].css-radio	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio {$/;"	function	line:1351
-input[type=radio].css-radio + label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio + label.css-label-r {$/;"	function	line:1354
-input[type=radio].css-radio:checked + label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio:checked + label.css-label-r {$/;"	function	line:1365
-label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label-r {$/;"	function	line:1368
-.payment-radios	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-radios{$/;"	function	line:1377
-.payment-bottom	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-bottom {$/;"	function	line:1380
-.payment-sep	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-sep {$/;"	function	line:1383
-.vacations-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn{$/;"	function	line:1392
-.vacations-ctn b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn b{$/;"	function	line:1395
-.input-calendar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.input-calendar{$/;"	function	line:1398
-.vacations-ctn h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn h2{$/;"	function	line:1403
-.academic_sel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.academic_sel{$/;"	function	line:1406
-.range-minus, .range-plus	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-minus, .range-plus{$/;"	function	line:1423
-.range-value	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-value {$/;"	function	line:1429
-.range-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-ctn{$/;"	function	line:1432
-.table_info thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table_info thead tr th{$/;"	function	line:1435
-.btn-profile	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-profile{$/;"	function	line:1439
-.profile-info > h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-info > h2{$/;"	function	line:1454
-.profile-pic	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-pic{$/;"	function	line:1459
-.profile-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-ctn{$/;"	function	line:1470
-.profile-pic img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-pic img{$/;"	function	line:1473
-.template-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-ctn{$/;"	function	line:1482
-.template-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-input{$/;"	function	line:1485
-.template-input:focus	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-input:focus{$/;"	function	line:1490
-h2.normal	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h2.normal{$/;"	function	line:1493
-.template-textarea	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-textarea{$/;"	function	line:1496
-.template-table-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-table-ctn{$/;"	function	line:1506
-.table-template thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template thead tr th {$/;"	function	line:1515
-.table-template td:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template td:first-child{$/;"	function	line:1521
-.table-template td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template td{$/;"	function	line:1525
-.add-table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.add-table {$/;"	function	line:1530
-.btn-yellow	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-yellow {$/;"	function	line:1533
-input[type=checkbox].css-checkbox-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red {$/;"	function	line:1548
-input[type=checkbox].css-checkbox-red + label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red + label.css-label-red {$/;"	function	line:1551
-input[type=checkbox].css-checkbox-red:checked + label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red:checked + label.css-label-red {$/;"	function	line:1563
-label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label-red {$/;"	function	line:1566
-.right-content > .row > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content > .row > div{$/;"	function	line:1574
-.calendar-legend	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.calendar-legend{$/;"	function	line:1577
-.mob-burger	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger{$/;"	function	line:1580
-.mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div{$/;"	function	line:1582
-.mob-burger div:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div:first-child{$/;"	function	line:1594
-.mob-burger div:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div:last-child{$/;"	function	line:1597
-.mob-burger.active div:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:first-child {$/;"	function	line:1601
-.mob-burger.active div:nth-child(2)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:nth-child(2) {$/;"	function	line:1611
-.mob-burger.active div:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:last-child {$/;"	function	line:1616
-.left-panel.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel.active{$/;"	function	line:1626
-.right-content::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content::before{$/;"	function	line:1630
-.right-content.nonactive::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content.nonactive::before {$/;"	function	line:1636
-.overflow-y	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.overflow-y{$/;"	function	line:1646
-.notif-list-mob	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob{$/;"	function	line:1649
-.notif-list-mob ul li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li {$/;"	function	line:1653
-.notif-list-mob ul li:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li:last-child{$/;"	function	line:1659
-.notif-list-mob ul li span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li span{$/;"	function	line:1662
-.sep-payment-pop	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.sep-payment-pop{$/;"	function	line:1665
-.menu-mob	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-mob {$/;"	function	line:1671
-.panel-group .submenu li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu li{$/;"	function	line:1676
-.panel-group .submenu a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu a{$/;"	function	line:1679
-.panel-group .submenu	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu {$/;"	function	line:1683
-.panel-group .menu-item:hover	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .menu-item:hover{$/;"	function	line:1691
-.menu-item.active-menu	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-item.active-menu {$/;"	function	line:1694
-.menu-item.active-menu::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-item.active-menu::before{$/;"	function	line:1697
-.panel-group .submenu .active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu .active{$/;"	function	line:1707
-.btns-plan-pop	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btns-plan-pop {$/;"	function	line:1711
-.more_op	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_op{$/;"	function	line:1714
-.more_inn_txt *	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn_txt *{$/;"	function	line:1722
-.more_inn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn{$/;"	function	line:1725
-.color_site,.font_type,.more_inn_txt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site,.font_type,.more_inn_txt{$/;"	function	line:1744
-.more_inn_txt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn_txt{$/;"	function	line:1746
-.big	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.big{$/;"	function	line:1750
-.bigger	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.bigger{$/;"	function	line:1755
-.biggest	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.biggest{$/;"	function	line:1761
-.font_type	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.font_type{$/;"	function	line:1766
-.color_site	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site{$/;"	function	line:1771
-.color_site a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site a{$/;"	function	line:1774
-.black_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black_c{$/;"	function	line:1782
-.white_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.white_c{$/;"	function	line:1785
-.black_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black_c{$/;"	function	line:1788
-.blue_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue_c{$/;"	function	line:1792
-.close_b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.close_b{$/;"	function	line:1798
-.black-white * div:not(.more_op):not(.blue_c):not(.normal_c):not(.black_c):not(.new-progress), .black-white * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .black-white * p, .black-white * select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white * div:not(.more_op):not(.blue_c):not(.normal_c):not(.black_c):not(.new-progress), .black-white * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .black-white * p, .black-white * select,$/;"	function	line:1803
-.black-white header, .black-white div:not(.linegraph-current):not(.more_op)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white header, .black-white div:not(.linegraph-current):not(.more_op){$/;"	function	line:1804
-.black-white .reg-phone b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .reg-phone b{$/;"	function	line:1809
-.black-white .flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .flex-linegraph .flex-fill::before{$/;"	function	line:1814
-.black-white .mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .mob-burger div{$/;"	function	line:1817
-.black-white img:not(.main-logo):not(.deskt-logo):not(.foo-logo-reg)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white img:not(.main-logo):not(.deskt-logo):not(.foo-logo-reg){$/;"	function	line:1820
-.black-white .deskt-logo	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .deskt-logo{$/;"	function	line:1825
-.black-white .ui-widget-header .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .ui-widget-header .ui-icon{$/;"	function	line:1828
-.black-white .logo-main-left img, .black-white .foo-logo-reg, .black-white .foo-logo-reg, .black-white .soc-reg img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .logo-main-left img, .black-white .foo-logo-reg, .black-white .foo-logo-reg, .black-white .soc-reg img{$/;"	function	line:1832
-.blue-black * div:not(.more_op):not(.normal_c):not(.blue_c):not(.black_c):not(.new-progress), .blue-black * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .blue-black * p, .blue-black * select, .blue-black header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * div:not(.more_op):not(.normal_c):not(.blue_c):not(.black_c):not(.new-progress), .blue-black * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .blue-black * p, .blue-black * select, .blue-black header,$/;"	function	line:1836
-.blue-black td, .blue-black div:not(.linegraph-current):not(.more_op)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black td, .blue-black div:not(.linegraph-current):not(.more_op){$/;"	function	line:1837
-.blue-black * .mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * .mob-burger div{$/;"	function	line:1842
-.blue-black * .new-progress span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * .new-progress span{$/;"	function	line:1845
-.blue-black .ui-widget-header .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black .ui-widget-header .ui-icon{$/;"	function	line:1848
-.blue-black .flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black .flex-linegraph .flex-fill::before{$/;"	function	line:1852
-.left-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel{$/;"	function	line:1855
-.left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar{$/;"	function	line:1858
-.normal_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.normal_c{$/;"	function	line:1861
-getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:79
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^a{$/;"	function	line:190
+b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^b{$/;"	function	line:193
+*	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^*{$/;"	function	line:196
+.main-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg{$/;"	function	line:200
+.breadcrumbs	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.breadcrumbs {$/;"	function	line:207
+.new-fluid	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-fluid{$/;"	function	line:213
+.blind-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector{$/;"	function	line:225
+.blind-selector a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector a{$/;"	function	line:229
+.blind-selector a:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blind-selector a:first-child{$/;"	function	line:233
+.white	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.white{$/;"	function	line:236
+.reg-phone p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone p{$/;"	function	line:239
+.reg-phone b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone b{$/;"	function	line:242
+.reg-phone a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone a{$/;"	function	line:245
+.reg-phone	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.reg-phone {$/;"	function	line:251
+.soc-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.soc-reg{$/;"	function	line:255
+.soc-reg a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.soc-reg a{$/;"	function	line:258
+.login-form	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.login-form{$/;"	function	line:261
+.login-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.login-ctn{$/;"	function	line:266
+#myTab	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab{$/;"	function	line:275
+#myTab a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab a{$/;"	function	line:285
+#myTab a.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#myTab a.active{$/;"	function	line:293
+.main-reg input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg input {$/;"	function	line:296
+.main-reg input::-webkit-input-placeholder	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg input::-webkit-input-placeholder{$/;"	function	line:306
+input[type=checkbox].css-checkbox	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox {$/;"	function	line:309
+input[type=checkbox].css-checkbox + label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox + label.css-label {$/;"	function	line:312
+input[type=checkbox].css-checkbox:checked + label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox:checked + label.css-label {$/;"	function	line:325
+label.css-label	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label {$/;"	function	line:328
+.password-forgot a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.password-forgot a{$/;"	function	line:336
+.align-center	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.align-center{$/;"	function	line:340
+button.btn-new.btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^button.btn-new.btn-green {$/;"	function	line:345
+h1, .h1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h1, .h1{$/;"	function	line:354
+h2, .h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h2, .h2{$/;"	function	line:358
+.nomargin	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.nomargin{$/;"	function	line:362
+.main-reg header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-reg header{$/;"	function	line:365
+.foo-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-reg{$/;"	function	line:368
+.foo-reg a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-reg a{$/;"	function	line:376
+.foo-logo-reg	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.foo-logo-reg{$/;"	function	line:380
+.main-fluid	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-fluid {$/;"	function	line:386
+.col-logo	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.col-logo {$/;"	function	line:390
+header.main-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^header.main-header {$/;"	function	line:393
+.flex-middle	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-middle{$/;"	function	line:404
+.main-header > .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-header > .row{$/;"	function	line:409
+select.contract-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^select.contract-selector {$/;"	function	line:412
+.contract-select b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.contract-select b{$/;"	function	line:423
+.contract-select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.contract-select{$/;"	function	line:428
+.tool-nav	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tool-nav{$/;"	function	line:433
+.tool-nav a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tool-nav a{$/;"	function	line:438
+.lang-switcher-in	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lang-switcher-in{$/;"	function	line:441
+.btn-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-red{$/;"	function	line:446
+.header-nav	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.header-nav{$/;"	function	line:461
+.left-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel{$/;"	function	line:466
+.panel-group div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group div {$/;"	function	line:479
+.panel-group a:not(.btn-red)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group a:not(.btn-red) {$/;"	function	line:484
+.panel-group	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group {$/;"	function	line:497
+.main-content	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-content{$/;"	function	line:500
+.main-inner-ctn.row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.main-inner-ctn.row {$/;"	function	line:504
+.right-content	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content{$/;"	function	line:507
+.right-content > .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content > .row{$/;"	function	line:515
+.new-table tbody tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr{$/;"	function	line:518
+.new-table tbody tr:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr:last-child{$/;"	function	line:521
+.new-table tbody tr td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr td{$/;"	function	line:524
+.new-table tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table tbody tr td:last-child{$/;"	function	line:533
+.new-table thead tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table thead tr{$/;"	function	line:537
+.new-table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table{$/;"	function	line:539
+.new-table thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table thead tr th{$/;"	function	line:542
+.new-progress span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-progress span {$/;"	function	line:548
+.new-progress	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-progress {$/;"	function	line:554
+.inner-container	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-container {$/;"	function	line:563
+.inner-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header{$/;"	function	line:571
+.f9c623	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.f9c623{$/;"	function	line:577
+.small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.small-wrapper{$/;"	function	line:580
+.table-1 tbody td:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-1 tbody td:first-child{$/;"	function	line:583
+.aa9d1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.aa9d1{$/;"	function	line:588
+#calendar .ui-datepicker	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker{$/;"	function	line:592
+#calendar .ui-datepicker .ui-datepicker-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-header {$/;"	function	line:597
+#calendar .ui-datepicker .ui-datepicker-prev	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-prev{$/;"	function	line:608
+#calendar .ui-datepicker .ui-datepicker-next	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-next{$/;"	function	line:614
+#calendar .ui-datepicker .ui-datepicker-prev .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-prev .ui-icon {$/;"	function	line:620
+#calendar .ui-datepicker .ui-datepicker-next .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker .ui-datepicker-next .ui-icon {$/;"	function	line:624
+#calendar .ui-datepicker th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker th{$/;"	function	line:628
+#calendar .ui-datepicker th.ui-datepicker-week-end	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker th.ui-datepicker-week-end{$/;"	function	line:633
+.calendar-ctn .small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.calendar-ctn .small-wrapper{$/;"	function	line:636
+#calendar .ui-datepicker td span, .ui-datepicker td a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#calendar .ui-datepicker td span, .ui-datepicker td a{$/;"	function	line:639
+.legend-group	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group{$/;"	function	line:646
+.legend-group:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group:before{$/;"	function	line:652
+.legend-group.session:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.session:before{$/;"	function	line:660
+.legend-group.practice:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.practice:before{$/;"	function	line:663
+.legend-group.self-recording:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.self-recording:before{$/;"	function	line:666
+.legend-group.examination:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.legend-group.examination:before{$/;"	function	line:669
+.f55f68	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.f55f68{$/;"	function	line:672
+.inner-header small	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header small{$/;"	function	line:675
+.new-table.table-2 thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.new-table.table-2 thead tr th{$/;"	function	line:681
+.panel-group:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group:first-child{$/;"	function	line:685
+.abcd45	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.abcd45{$/;"	function	line:688
+.inner-header span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.inner-header span{$/;"	function	line:691
+.pushed-24	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pushed-24{$/;"	function	line:694
+.h-100	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.h-100{$/;"	function	line:697
+.balance	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance {$/;"	function	line:700
+.balance-ctn .small-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance-ctn .small-wrapper {$/;"	function	line:708
+.balance p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance p{$/;"	function	line:711
+.btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-green{$/;"	function	line:717
+.balance .btn-green	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.balance .btn-green{$/;"	function	line:731
+footer.foo-main	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^footer.foo-main {$/;"	function	line:735
+.left-panel .inner-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel .inner-panel{$/;"	function	line:744
+.left-panel > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel > div{$/;"	function	line:751
+.notif-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon{$/;"	function	line:761
+.notif-icon > span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon > span{$/;"	function	line:764
+.notifications-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notifications-ctn{$/;"	function	line:779
+.notif-list ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul{$/;"	function	line:791
+.notif-ctn > strong	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-ctn > strong{$/;"	function	line:796
+.notif-list ul li span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li span{$/;"	function	line:804
+.notif-list ul li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li{$/;"	function	line:810
+.notif-list ul li.un-read	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list ul li.un-read{$/;"	function	line:818
+.notif-list	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list {$/;"	function	line:821
+.notif-list::-webkit-scrollbar,.notif-list::-moz-scrollbar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar,.notif-list::-moz-scrollbar {$/;"	function	line:826
+.notif-list::-webkit-scrollbar-track,.notif-list::-moz-scrollbar-track	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar-track,.notif-list::-moz-scrollbar-track {$/;"	function	line:829
+.notif-list::-webkit-scrollbar-thumb,.notif-list::-moz-scrollbar-thumb	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list::-webkit-scrollbar-thumb,.notif-list::-moz-scrollbar-thumb {$/;"	function	line:834
+.notif-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-icon{$/;"	function	line:839
+.notif-list li:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li:before {$/;"	function	line:842
+.notif-list li.read:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li.read:before{$/;"	function	line:852
+.notif-list li.un-read:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list li.un-read:before{$/;"	function	line:855
+.pop-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-wrapper {$/;"	function	line:858
+section.popup-new	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^section.popup-new {$/;"	function	line:870
+.pop-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-title {$/;"	function	line:886
+.pop-date	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-date {$/;"	function	line:891
+.pop-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-header {$/;"	function	line:897
+.pop-close img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.pop-close img {$/;"	function	line:901
+.planning-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-selector{$/;"	function	line:905
+.course-prev::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-prev::before{$/;"	function	line:907
+.course-next::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-next::before{$/;"	function	line:917
+.course-prev	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-prev{$/;"	function	line:927
+.course-next	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-next{$/;"	function	line:933
+.current-course	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course{$/;"	function	line:939
+.current-course > span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course > span{$/;"	function	line:944
+.current-course small	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.current-course small{$/;"	function	line:947
+.planning-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-selector {$/;"	function	line:951
+.planning-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-ctn{$/;"	function	line:954
+.planning-pills a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a{$/;"	function	line:957
+.planning-pills a.active,.planning-pills a:hover	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a.active,.planning-pills a:hover{$/;"	function	line:966
+.planning-pills a:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills a:last-child{$/;"	function	line:970
+.planning-info b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-info b{$/;"	function	line:973
+.planning-pills	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-pills{$/;"	function	line:978
+.btn-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-planning{$/;"	function	line:981
+.planning-info .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.planning-info .row{$/;"	function	line:996
+.popup-planning	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning{$/;"	function	line:999
+.popup-planning .pop-wrapper	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-wrapper{$/;"	function	line:1001
+.popup-planning .pop-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-header{$/;"	function	line:1009
+.medium	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.medium{$/;"	function	line:1012
+.popup-planning span.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span.active{$/;"	function	line:1015
+.popup-planning span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning span{$/;"	function	line:1018
+.popup-planning .pop-content .d-flex:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.popup-planning .pop-content .d-flex:first-child{$/;"	function	line:1021
+.table-3 tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-3 tbody tr td:last-child{$/;"	function	line:1026
+.linegraph-selector	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-selector{$/;"	function	line:1029
+.linegraph-main > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-main > div{$/;"	function	line:1032
+.linegraph-main	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-main{$/;"	function	line:1035
+.course-1	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-1{$/;"	function	line:1039
+.course-2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-2{$/;"	function	line:1042
+.course-3	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-3{$/;"	function	line:1045
+.course-4	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-4{$/;"	function	line:1048
+.course-5	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-5{$/;"	function	line:1051
+.course-6	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-6{$/;"	function	line:1054
+.course-7	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-7{$/;"	function	line:1057
+.course-8	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-8{$/;"	function	line:1060
+.linegraph-month .not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month .not-available{$/;"	function	line:1063
+.course-1.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-1.not-available{$/;"	function	line:1066
+.course-2.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-2.not-available{$/;"	function	line:1069
+.course-3.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-3.not-available{$/;"	function	line:1072
+.course-4.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-4.not-available{$/;"	function	line:1075
+.course-5.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-5.not-available{$/;"	function	line:1078
+.course-6.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-6.not-available{$/;"	function	line:1081
+.course-7.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-7.not-available{$/;"	function	line:1084
+.course-8.not-available	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-8.not-available{$/;"	function	line:1087
+.linegraph-month > div:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month > div:before{$/;"	function	line:1090
+.flex-vacation::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-vacation::after{$/;"	function	line:1100
+.linegraph-month > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month > div{$/;"	function	line:1110
+.linegraph-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-ctn {$/;"	function	line:1129
+.flex-linegraph	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph {$/;"	function	line:1136
+.flex-linegraph > .flex-fill	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph > .flex-fill{$/;"	function	line:1140
+.linegraph-month	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-month{$/;"	function	line:1150
+.course-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-title{$/;"	function	line:1153
+.course-title.no-wrap	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-title.no-wrap{$/;"	function	line:1162
+.flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph .flex-fill::before{$/;"	function	line:1165
+.flex-linegraph .flex-fill:not(.empty-date):hover::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.flex-linegraph .flex-fill:not(.empty-date):hover::before{$/;"	function	line:1177
+.course-number	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-number{$/;"	function	line:1182
+.course-ttl-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-ttl-r{$/;"	function	line:1192
+.payment-icn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-icn{$/;"	function	line:1195
+.change-icn::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.change-icn::after{$/;"	function	line:1203
+.linegraph-legend	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-legend{$/;"	function	line:1212
+.btn-planning.btn-yellow	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-planning.btn-yellow{$/;"	function	line:1215
+#linegraph-current::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current::before{$/;"	function	line:1218
+#linegraph-current::after	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current::after{$/;"	function	line:1226
+#linegraph-current	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^#linegraph-current{$/;"	function	line:1237
+.tooltip.show	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tooltip.show {$/;"	function	line:1247
+.tooltip-inner	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.tooltip-inner {$/;"	function	line:1250
+.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before{$/;"	function	line:1261
+.lgnd-date:before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-date:before{$/;"	function	line:1264
+.lgnd-rub::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-rub::before{$/;"	function	line:1273
+.lgnd-change::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-change::before{$/;"	function	line:1283
+.lgnd-vacations::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.lgnd-vacations::before{$/;"	function	line:1293
+.linegraph-instructions	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-instructions{$/;"	function	line:1302
+.table th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table th{$/;"	function	line:1305
+.table-instructions td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-instructions td{$/;"	function	line:1308
+.instructions-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-title{$/;"	function	line:1311
+.instructions-ctn .row:last-child > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row:last-child > div{$/;"	function	line:1319
+.instructions-ctn .row	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row{$/;"	function	line:1322
+.instructions-ctn .row > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.instructions-ctn .row > div{$/;"	function	line:1326
+.linegraph-instructions	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.linegraph-instructions{$/;"	function	line:1333
+.course-sel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.course-sel{$/;"	function	line:1336
+.table-work tbody tr td:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-work tbody tr td:last-child{$/;"	function	line:1348
+.payment-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-ctn{$/;"	function	line:1351
+input[type=radio].css-radio	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio {$/;"	function	line:1354
+input[type=radio].css-radio + label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio + label.css-label-r {$/;"	function	line:1357
+input[type=radio].css-radio:checked + label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=radio].css-radio:checked + label.css-label-r {$/;"	function	line:1368
+label.css-label-r	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label-r {$/;"	function	line:1371
+.payment-radios	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-radios{$/;"	function	line:1380
+.payment-bottom	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-bottom {$/;"	function	line:1383
+.payment-sep	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.payment-sep {$/;"	function	line:1386
+.vacations-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn{$/;"	function	line:1395
+.vacations-ctn b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn b{$/;"	function	line:1398
+.input-calendar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.input-calendar{$/;"	function	line:1401
+.vacations-ctn h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.vacations-ctn h2{$/;"	function	line:1406
+.academic_sel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.academic_sel{$/;"	function	line:1409
+.range-minus, .range-plus	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-minus, .range-plus{$/;"	function	line:1426
+.range-value	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-value {$/;"	function	line:1432
+.range-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.range-ctn{$/;"	function	line:1435
+.table_info thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table_info thead tr th{$/;"	function	line:1438
+.btn-profile	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-profile{$/;"	function	line:1442
+.profile-info > h2	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-info > h2{$/;"	function	line:1457
+.profile-pic	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-pic{$/;"	function	line:1462
+.profile-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-ctn{$/;"	function	line:1473
+.profile-pic img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.profile-pic img{$/;"	function	line:1476
+.template-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-ctn{$/;"	function	line:1485
+.template-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-input{$/;"	function	line:1488
+.template-input:focus	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-input:focus{$/;"	function	line:1493
+h2.normal	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^h2.normal{$/;"	function	line:1496
+.template-textarea	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-textarea{$/;"	function	line:1499
+.template-table-ctn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.template-table-ctn{$/;"	function	line:1509
+.table-template thead tr th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template thead tr th {$/;"	function	line:1518
+.table-template td:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template td:first-child{$/;"	function	line:1524
+.table-template td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.table-template td{$/;"	function	line:1528
+.add-table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.add-table {$/;"	function	line:1533
+.btn-yellow	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btn-yellow {$/;"	function	line:1536
+input[type=checkbox].css-checkbox-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red {$/;"	function	line:1551
+input[type=checkbox].css-checkbox-red + label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red + label.css-label-red {$/;"	function	line:1554
+input[type=checkbox].css-checkbox-red:checked + label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^input[type=checkbox].css-checkbox-red:checked + label.css-label-red {$/;"	function	line:1566
+label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^label.css-label-red {$/;"	function	line:1569
+.right-content > .row > div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content > .row > div{$/;"	function	line:1577
+.calendar-legend	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.calendar-legend{$/;"	function	line:1580
+.mob-burger	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger{$/;"	function	line:1583
+.mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div{$/;"	function	line:1585
+.mob-burger div:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div:first-child{$/;"	function	line:1597
+.mob-burger div:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger div:last-child{$/;"	function	line:1600
+.mob-burger.active div:first-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:first-child {$/;"	function	line:1604
+.mob-burger.active div:nth-child(2)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:nth-child(2) {$/;"	function	line:1614
+.mob-burger.active div:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.mob-burger.active div:last-child {$/;"	function	line:1619
+.left-panel.active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel.active{$/;"	function	line:1629
+.right-content::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content::before{$/;"	function	line:1633
+.right-content.nonactive::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.right-content.nonactive::before {$/;"	function	line:1639
+.overflow-y	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.overflow-y{$/;"	function	line:1649
+.notif-list-mob	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob{$/;"	function	line:1652
+.notif-list-mob ul li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li {$/;"	function	line:1656
+.notif-list-mob ul li:last-child	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li:last-child{$/;"	function	line:1662
+.notif-list-mob ul li span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.notif-list-mob ul li span{$/;"	function	line:1665
+.sep-payment-pop	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.sep-payment-pop{$/;"	function	line:1668
+.menu-mob	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-mob {$/;"	function	line:1674
+.panel-group .submenu li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu li{$/;"	function	line:1679
+.panel-group .submenu a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu a{$/;"	function	line:1682
+.panel-group .submenu	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu {$/;"	function	line:1686
+.panel-group .menu-item:hover	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .menu-item:hover{$/;"	function	line:1694
+.menu-item.active-menu	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-item.active-menu {$/;"	function	line:1697
+.menu-item.active-menu::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.menu-item.active-menu::before{$/;"	function	line:1700
+.panel-group .submenu .active	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.panel-group .submenu .active{$/;"	function	line:1710
+.btns-plan-pop	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.btns-plan-pop {$/;"	function	line:1714
+.more_op	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_op{$/;"	function	line:1717
+.more_inn_txt *	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn_txt *{$/;"	function	line:1725
+.more_inn	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn{$/;"	function	line:1728
+.color_site,.font_type,.more_inn_txt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site,.font_type,.more_inn_txt{$/;"	function	line:1747
+.more_inn_txt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.more_inn_txt{$/;"	function	line:1749
+.big	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.big{$/;"	function	line:1753
+.bigger	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.bigger{$/;"	function	line:1758
+.biggest	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.biggest{$/;"	function	line:1764
+.font_type	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.font_type{$/;"	function	line:1769
+.color_site	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site{$/;"	function	line:1774
+.color_site a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.color_site a{$/;"	function	line:1777
+.black_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black_c{$/;"	function	line:1785
+.white_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.white_c{$/;"	function	line:1788
+.black_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black_c{$/;"	function	line:1791
+.blue_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue_c{$/;"	function	line:1795
+.close_b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.close_b{$/;"	function	line:1801
+.black-white * div:not(.more_op):not(.blue_c):not(.normal_c):not(.black_c):not(.new-progress), .black-white * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .black-white * p, .black-white * select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white * div:not(.more_op):not(.blue_c):not(.normal_c):not(.black_c):not(.new-progress), .black-white * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .black-white * p, .black-white * select,$/;"	function	line:1806
+.black-white header, .black-white div:not(.linegraph-current):not(.more_op)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white header, .black-white div:not(.linegraph-current):not(.more_op){$/;"	function	line:1807
+.black-white .reg-phone b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .reg-phone b{$/;"	function	line:1812
+.black-white .flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .flex-linegraph .flex-fill::before{$/;"	function	line:1817
+.black-white .mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .mob-burger div{$/;"	function	line:1820
+.black-white img:not(.main-logo):not(.deskt-logo):not(.foo-logo-reg)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white img:not(.main-logo):not(.deskt-logo):not(.foo-logo-reg){$/;"	function	line:1823
+.black-white .deskt-logo	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .deskt-logo{$/;"	function	line:1828
+.black-white .ui-widget-header .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .ui-widget-header .ui-icon{$/;"	function	line:1831
+.black-white .logo-main-left img, .black-white .foo-logo-reg, .black-white .foo-logo-reg, .black-white .soc-reg img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.black-white .logo-main-left img, .black-white .foo-logo-reg, .black-white .foo-logo-reg, .black-white .soc-reg img{$/;"	function	line:1835
+.blue-black * div:not(.more_op):not(.normal_c):not(.blue_c):not(.black_c):not(.new-progress), .blue-black * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .blue-black * p, .blue-black * select, .blue-black header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * div:not(.more_op):not(.normal_c):not(.blue_c):not(.black_c):not(.new-progress), .blue-black * a:not(.btn-red):not(.normal_c):not(.black_c):not(.blue_c):not(.btn-red):not(.btn-green):not(.btn-yellow), .blue-black * p, .blue-black * select, .blue-black header,$/;"	function	line:1839
+.blue-black td, .blue-black div:not(.linegraph-current):not(.more_op)	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black td, .blue-black div:not(.linegraph-current):not(.more_op){$/;"	function	line:1840
+.blue-black * .mob-burger div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * .mob-burger div{$/;"	function	line:1845
+.blue-black * .new-progress span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black * .new-progress span{$/;"	function	line:1848
+.blue-black .ui-widget-header .ui-icon	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black .ui-widget-header .ui-icon{$/;"	function	line:1851
+.blue-black .flex-linegraph .flex-fill::before	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.blue-black .flex-linegraph .flex-fill::before{$/;"	function	line:1855
+.left-panel	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel{$/;"	function	line:1858
+.left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar{$/;"	function	line:1861
+.normal_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.normal_c{$/;"	function	line:1864
