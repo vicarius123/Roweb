@@ -37,8 +37,9 @@ $(document).ready(function(){
     $('.footer').removeAttr('style');
 
     $('body').css('transform','scale(1)');
-    jQuery('body').removeClass('black-white')
-    jQuery('body').removeClass('blue-black')
+    $('body').removeClass('black-white')
+    $('body').removeClass('blue-black')
+    $('body').removeAttr('style');
   });
 
   $('.eye-switcher').click(function(){
@@ -71,8 +72,8 @@ $(document).ready(function(){
 
   $('.normal_c').click(function(e){
     e.preventDefault();
-    jQuery('body').removeClass('black-white')
-    jQuery('body').removeClass('blue-black')
+    $('body').removeClass('black-white')
+    $('body').removeClass('blue-black')
   })
 
   _imgs = ['/images/bg-reg.jpg', '/images/Bg_1.jpg', '/images/Bg_2.jpg']

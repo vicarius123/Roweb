@@ -3856,7 +3856,6 @@ script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:397
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/jquery-ui.min.js"><\/script>$/;"	function	line:398
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:399
-getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:79
 @font-face	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^@font-face {$/;"	function	line:1
 src: url('/fonts/MuseoCyrl-700.eot?#iefix') format('embedded-opentype')	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^  src: url('\/fonts\/MuseoCyrl-700.eot?#iefix') format('embedded-opentype'),$/;"	function	line:4
 url('/fonts/MuseoCyrl-700.woff2') format('woff2')	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^  url('\/fonts\/MuseoCyrl-700.woff2') format('woff2'),$/;"	function	line:5
@@ -4625,3 +4624,4 @@ script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="ht
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.3\/umd\/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK\/l8WvCWPIPm49" crossorigin="anonymous"><\/script>$/;"	function	line:637
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:638
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:639
+getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:80
