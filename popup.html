@@ -8,13 +8,14 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
   <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/resp.css">
   <title>RoWeb - Main</title>
 </head>
 <body>
   <header class="main-header main-fluid">
-    <div class="row flex-middle">
+    <div class="row flex-middle d-lg-flex d-none">
       <div class="col col-logo">
-        <img src="/images/logo-inner.svg">
+        <img src="/images/logo-inner.svg" class="deskt-logo">
       </div>
       <div class="col col-header text-center">
         <div class="header-nav">
@@ -70,7 +71,25 @@
         </div>
       </div>
     </div>
+    <div class="flex-middle d-lg-none d-flex w-100">
+      <div class="flex-fill">
+        <div class="mob-burger">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+      <div class="flex-fill col-logo w-100 text-center">
+        <img src="/images/logo-inner.svg" class="main-logo">
+      </div>
+      <div class="flex-fill text-right">
+        <div class="tool-nav">
+          <a href="#" class="notif-icon"><img src="/images/notifications-icn.svg" /><span class="text-center">1</span></a>
+        </div>
+      </div>
+    </div>
   </header>
+
   <div class="main-content ">
     <div class="main-inner-ctn row">
       <div class="col left-panel">
@@ -381,13 +400,13 @@
         <p class="pop-date">
           12.01.18
         </p>
-        <div class="row ">
-          <div class="col-sm-6">
+        <div class="d-flex ">
+          <div class="flex-fill">
             <p class="pop-title">
               Акция «Приведи друга»
             </p>
           </div>
-          <div class="col-sm-6 text-right">
+          <div class="flex-fill text-right">
             <a href="#" class="pop-close"><img src="/images/pop-close.svg" /></a>
           </div>
         </div>

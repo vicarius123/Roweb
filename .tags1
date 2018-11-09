@@ -4,107 +4,265 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^<html lang="en"><head>$/;"	function	line:2
-meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <meta charset="utf-8">$/;"	function	line:4
-meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:5
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <link rel="stylesheet" href="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/css\/bootstrap.min.css" integrity="sha384-MCw98\/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">$/;"	function	line:7
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <link rel="stylesheet" href="\/css\/styles.css">$/;"	function	line:8
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <link rel="stylesheet" href="\/css\/resp.css">$/;"	function	line:9
-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <title>RoWeb - Login<\/title>$/;"	function	line:10
-body	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^<body>$/;"	function	line:12
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <div class="more_op">$/;"	function	line:13
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^    <div class="more_inn">$/;"	function	line:14
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <div class="more_inn_txt">$/;"	function	line:15
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <p>Версия сайта<br>для слабовидящих<\/p>$/;"	function	line:16
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <div class="font_type">$/;"	function	line:18
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <span>ШРИФТ:<\/span>$/;"	function	line:19
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="big">A<\/a>$/;"	function	line:20
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="bigger">A<\/a>$/;"	function	line:21
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="biggest">A<\/a>$/;"	function	line:22
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <div class="color_site">$/;"	function	line:24
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <span>ЦВЕТ САЙТА:<\/span>$/;"	function	line:25
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="black_c">A<\/a>$/;"	function	line:26
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="blue_c">A<\/a>$/;"	function	line:27
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <a href="#" class="normal_c">A<\/a>$/;"	function	line:28
-br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <br clear="all">$/;"	function	line:30
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <a href="#" class="close_b">$/;"	function	line:31
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <img src="\/images\/pop-close.svg">$/;"	function	line:32
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <div class="main-reg">$/;"	function	line:36
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^    <div class="container-fluid new-fluid d-flex ">$/;"	function	line:37
-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <header>$/;"	function	line:38
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <div class="row">$/;"	function	line:39
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <div class="col-sm-6 logo-register">$/;"	function	line:40
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <img src="\/images\/logo.svg" class="main-logo" >$/;"	function	line:41
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <div class="col-sm-6 text-right white">$/;"	function	line:43
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <div class="blind-selector">$/;"	function	line:44
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#" class="eye-switcher"><img src="\/images\/eye.svg"><\/a>$/;"	function	line:45
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#">Eng<\/a>$/;"	function	line:46
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <div class="reg-phone d-none d-md-block">$/;"	function	line:48
-b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <b>Call-центр УМНЕЙ:<\/b><br>$/;"	function	line:49
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <p>$/;"	function	line:50
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <a href="tel:8 800 200 61 01" class="white">8 800 200 61 01<\/a> — для звонков по России$/;"	function	line:51
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <p>$/;"	function	line:53
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <a href="tel:+7 495 926 98 53" class="white">+7 495 926 98 53<\/a> — для Москвы и заграницы$/;"	function	line:54
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <div class="soc-reg d-none d-md-block">$/;"	function	line:57
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#"><img src="\/images\/vk.svg"><\/a>$/;"	function	line:58
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#"><img src="\/images\/fb.svg"><\/a>$/;"	function	line:59
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#"><img src="\/images\/inst.svg"><\/a>$/;"	function	line:60
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="#"><img src="\/images\/ok.svg"><\/a>$/;"	function	line:61
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <div class="login-ctn d-flex ">$/;"	function	line:66
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <div class="login-form">$/;"	function	line:67
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <div class="tab-content" id="loginForm">$/;"	function	line:68
-ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <ul class="nav " id="myTab" role="tablist">$/;"	function	line:69
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <li class="">$/;"	function	line:70
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <a class="nav-link active white" id="login-tab" data-toggle="tab" href="#login" role="tab" aria-controls="login" aria-selected="true">Войти<\/a>$/;"	function	line:71
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <li class="">$/;"	function	line:73
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <a class="nav-link white" id="register-tab" data-toggle="tab" href="#register" role="tab" aria-controls="register" aria-selected="false">Регистрация<\/a>$/;"	function	line:74
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">$/;"	function	line:77
-form	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <form action="main.html">$/;"	function	line:78
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:79
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="email" placeholder="E-mail (логин)">$/;"	function	line:80
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:82
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="password" placeholder="Пароль">$/;"	function	line:83
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:85
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <div class="d-flex align-center">$/;"	function	line:86
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                    <div class="flex-fill">$/;"	function	line:87
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                      <input type="checkbox" name="rememberme" id="rememberme" class="css-checkbox"><label for="rememberme" class="css-label">Запомнить меня<\/label>$/;"	function	line:88
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                    <div class="flex-fill text-right password-forgot">$/;"	function	line:90
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                      <a href="#" class="white">Забыли пароль?<\/a>$/;"	function	line:91
-button	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <button class="btn-new btn-green">Войти<\/button>$/;"	function	line:95
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <div class="tab-pane fade" id="register" role="tabpanel" aria-labelledby="register-tab">$/;"	function	line:98
-form	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <form>$/;"	function	line:99
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:100
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="text" placeholder="Номер контракта">$/;"	function	line:101
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:103
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="email" placeholder="E-mail (логин)">$/;"	function	line:104
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:106
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="password" placeholder="Пароль">$/;"	function	line:107
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <div class="form-group">$/;"	function	line:109
-input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                  <input type="password" placeholder="Подтвердите пароль">$/;"	function	line:110
-br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <br>$/;"	function	line:112
-button	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^                <button class="btn-new btn-green">Зарегистрироваться<\/button>$/;"	function	line:113
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <div class="row d-flex d-md-none">$/;"	function	line:119
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <div class="col-sm-12 text-center white">$/;"	function	line:120
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <div class="reg-phone">$/;"	function	line:121
-b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <b>Call-центр УМНЕЙ:<\/b><br>$/;"	function	line:122
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <p>$/;"	function	line:123
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="tel:8 800 200 61 01" class="white">8 800 200 61 01<\/a> — для звонков по России$/;"	function	line:124
-br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <br \/>$/;"	function	line:126
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <p>$/;"	function	line:127
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^              <a href="tel:+7 495 926 98 53" class="white">+7 495 926 98 53<\/a> — для Москвы и заграницы$/;"	function	line:128
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <div class="soc-reg">$/;"	function	line:131
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <a href="#"><img src="\/images\/vk.svg"><\/a>$/;"	function	line:132
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <a href="#"><img src="\/images\/fb.svg"><\/a>$/;"	function	line:133
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <a href="#"><img src="\/images\/inst.svg"><\/a>$/;"	function	line:134
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^            <a href="#"><img src="\/images\/ok.svg"><\/a>$/;"	function	line:135
-br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <br \/>$/;"	function	line:137
-footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^      <footer class="foo-reg">$/;"	function	line:140
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <div class="text-center">$/;"	function	line:141
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <p class="white">$/;"	function	line:142
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <a href="#">Политика в отношении обработки персональных данных<\/a><br \/><br \/>$/;"	function	line:145
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^          <a href="#">Пользовательское соглашение<\/a>$/;"	function	line:146
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^        <img src="\/images\/logo-reg.svg" class="foo-logo-reg">$/;"	function	line:148
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.3.1\/jquery.min.js"><\/script>$/;"	function	line:152
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.3\/umd\/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK\/l8WvCWPIPm49" crossorigin="anonymous"><\/script>$/;"	function	line:153
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:154
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:155
+html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^<html lang="ru">$/;"	function	line:2
+head	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^<head>$/;"	function	line:3
+meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <meta charset="utf-8">$/;"	function	line:5
+meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:6
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <link rel="stylesheet" href="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/css\/bootstrap.min.css" integrity="sha384-MCw98\/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">$/;"	function	line:8
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <link rel="stylesheet" href="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/themes\/smoothness\/jquery-ui.css">$/;"	function	line:9
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <link rel="stylesheet" href="\/css\/styles.css">$/;"	function	line:10
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <link rel="stylesheet" href="\/css\/resp.css">$/;"	function	line:11
+title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <title>RoWeb - Main<\/title>$/;"	function	line:12
+body	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^<body>$/;"	function	line:14
+header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <header class="main-header main-fluid">$/;"	function	line:15
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^    <div class="row flex-middle d-lg-flex d-none">$/;"	function	line:16
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="col col-logo">$/;"	function	line:17
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <img src="\/images\/logo-inner.svg" class="deskt-logo">$/;"	function	line:18
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="col col-header text-center">$/;"	function	line:20
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="header-nav">$/;"	function	line:21
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="contract-select">$/;"	function	line:22
+b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <b>ID<\/b>$/;"	function	line:23
+select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <select class="contract-selector">$/;"	function	line:24
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <option selected>00000000000000001<\/option>$/;"	function	line:25
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <option>00000000000000002<\/option>$/;"	function	line:26
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <option>00000000000000003<\/option>$/;"	function	line:27
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="tool-nav">$/;"	function	line:29
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#"><img src="\/images\/profile-icn.svg" \/><\/a>$/;"	function	line:30
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span>1<\/span>$/;"	function	line:31
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div class="notifications-ctn">$/;"	function	line:32
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="notif-ctn">$/;"	function	line:33
+strong	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <strong>Уведомления<\/strong>$/;"	function	line:34
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <div class="notif-list">$/;"	function	line:35
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <ul>$/;"	function	line:36
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="un-read">$/;"	function	line:37
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:40
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:43
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:46
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:49
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:52
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:55
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                        <li class="read">$/;"	function	line:58
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#"><img src="\/images\/eye-blk.svg" \/><\/a>$/;"	function	line:66
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#" class="lang-switcher-in">Eng<\/a>$/;"	function	line:67
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:70
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^    <div class="flex-middle d-lg-none d-flex w-100">$/;"	function	line:74
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="flex-fill">$/;"	function	line:75
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="mob-burger">$/;"	function	line:76
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div><\/div>$/;"	function	line:77
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div><\/div>$/;"	function	line:78
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div><\/div>$/;"	function	line:79
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="flex-fill col-logo w-100 text-center">$/;"	function	line:82
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <img src="\/images\/logo-inner.svg" class="main-logo">$/;"	function	line:83
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="flex-fill text-right">$/;"	function	line:85
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="tool-nav">$/;"	function	line:86
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span class="text-center">1<\/span><\/a>$/;"	function	line:87
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <div class="main-content ">$/;"	function	line:93
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^    <div class="main-inner-ctn row">$/;"	function	line:94
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="col left-panel">$/;"	function	line:95
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div>$/;"	function	line:96
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="inner-panel">$/;"	function	line:97
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:98
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="planning.html" class="menu-item">$/;"	function	line:99
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:100
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-1.svg" \/>$/;"	function	line:101
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Планирование<\/span>$/;"	function	line:103
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:106
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#" class="menu-item">$/;"	function	line:107
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:108
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-2.svg" \/>$/;"	function	line:109
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Обучение<\/span>$/;"	function	line:111
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <ul class="submenu">$/;"	function	line:113
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:114
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Учебный план<\/a>$/;"	function	line:115
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:117
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Документы на практику<\/a>$/;"	function	line:118
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:120
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Библиотека<\/a>$/;"	function	line:121
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:123
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Шаблоны<\/a>$/;"	function	line:124
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:126
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Лекции<\/a>$/;"	function	line:127
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:129
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Виртуальная аудитория для проведения групповых и индвивидуальных консультаций<\/a>$/;"	function	line:130
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:132
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Тест на реакцию<\/a>$/;"	function	line:133
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:137
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#" class="menu-item">$/;"	function	line:138
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:139
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-3.svg" \/>$/;"	function	line:140
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Электронное<br \/>портфолио<\/span>$/;"	function	line:142
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <ul class="submenu">$/;"	function	line:144
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:145
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Письменные работы<\/a>$/;"	function	line:146
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:148
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Практики<\/a>$/;"	function	line:149
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:151
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Устные виды занятий<\/a>$/;"	function	line:152
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:154
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Конспекты<\/a>$/;"	function	line:155
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:159
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#" class="menu-item">$/;"	function	line:160
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:161
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-4.svg" \/>$/;"	function	line:162
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Заявки<\/span>$/;"	function	line:164
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <ul class="submenu">$/;"	function	line:166
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:167
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Справки<\/a>$/;"	function	line:168
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <li>$/;"	function	line:170
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#">Академический отпуск<\/a>$/;"	function	line:171
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:175
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#">$/;"	function	line:176
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:177
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-5.svg" \/>$/;"	function	line:178
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Оплата<\/span>$/;"	function	line:180
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:183
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#">$/;"	function	line:184
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:185
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-6.svg" \/>$/;"	function	line:186
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Поддержка<\/span>$/;"	function	line:188
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="panel-group">$/;"	function	line:191
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <a href="#">$/;"	function	line:192
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div>$/;"	function	line:193
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <img src="\/images\/icon-7.svg" \/>$/;"	function	line:194
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <span>Приведи друга<\/span>$/;"	function	line:196
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="menu-mob d-block d-lg-none">$/;"	function	line:199
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="panel-group">$/;"	function	line:200
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <a href="#">$/;"	function	line:201
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div>$/;"	function	line:202
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <img src="\/images\/profile-icn.svg" \/>$/;"	function	line:203
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <span>Профиль<\/span>$/;"	function	line:205
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="panel-group">$/;"	function	line:208
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <a href="#">$/;"	function	line:209
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div>$/;"	function	line:210
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <img src="\/images\/change-icn-mob.svg" \/>$/;"	function	line:211
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <span>$/;"	function	line:213
+b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <b class="medium">ID<\/b>$/;"	function	line:214
+select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <select class="contract-selector">$/;"	function	line:215
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <option selected="">00000000000000001<\/option>$/;"	function	line:216
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <option>00000000000000002<\/option>$/;"	function	line:217
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <option>00000000000000003<\/option>$/;"	function	line:218
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="panel-group">$/;"	function	line:223
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <a href="#">$/;"	function	line:224
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div>$/;"	function	line:225
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <img src="\/images\/eye-blk.svg" \/>$/;"	function	line:226
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <span>Версия для слабовидящих<\/span>$/;"	function	line:228
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="panel-group">$/;"	function	line:231
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <a href="#">$/;"	function	line:232
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div>$/;"	function	line:233
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="panel-group">$/;"	function	line:238
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:239
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="logo-main-left">$/;"	function	line:243
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <img src="\/images\/logo-foo-left.svg" \/>$/;"	function	line:244
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="col right-content">$/;"	function	line:248
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="row">$/;"	function	line:249
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="col-sm-8">$/;"	function	line:250
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="inner-container">$/;"	function	line:251
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="inner-header f9c623">$/;"	function	line:252
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <p class="nomargin">$/;"	function	line:253
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="small-wrapper">$/;"	function	line:257
+table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <table class="table new-table table-1">$/;"	function	line:258
+thead	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <thead>$/;"	function	line:259
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:260
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <th scope="col">Дата<\/th>$/;"	function	line:261
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <th scope="col">Дисциплина<\/th>$/;"	function	line:262
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <th scope="col">Процесс<\/th>$/;"	function	line:263
+tbody	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <tbody>$/;"	function	line:266
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:267
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>16.01.18<\/td>$/;"	function	line:268
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Теория вероятностей<br \/>и математическая статистика<\/td>$/;"	function	line:269
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td class="d-flex flex-middle"><div class="new-progress"><span style="width:30%"><\/span><\/div><span>30%<\/span><\/td>$/;"	function	line:270
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:272
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>15.01.18<\/td>$/;"	function	line:273
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Английский язык.<br \/>Базовый курс для нелингвистов<\/td>$/;"	function	line:274
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td class="d-flex flex-middle"><div class="new-progress"><span style="width:13%"><\/span><\/div><span>13%<\/span><\/td>$/;"	function	line:275
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:277
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>09.01.18<\/td>$/;"	function	line:278
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Экономика общественного сектора<\/td>$/;"	function	line:279
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td class="d-flex flex-middle"><div class="new-progress"><span  style="width:88%"><\/span><\/div><span>88%<\/span><\/td>$/;"	function	line:280
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="col-sm-4">$/;"	function	line:287
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="inner-container calendar-ctn">$/;"	function	line:288
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="inner-header aa9d1">$/;"	function	line:289
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <p class="nomargin">$/;"	function	line:290
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="small-wrapper">$/;"	function	line:294
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div id="calendar"><\/div>$/;"	function	line:295
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div class="row calendar-legend">$/;"	function	line:296
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col-sm-5">$/;"	function	line:297
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <div class="legend-group session">$/;"	function	line:298
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <span>Сессия<\/span>$/;"	function	line:299
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <div class="legend-group practice">$/;"	function	line:301
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <span>Практика<\/span>$/;"	function	line:302
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col-sm-7">$/;"	function	line:305
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <div class="legend-group self-recording">$/;"	function	line:306
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <span>Самозапись<\/span>$/;"	function	line:307
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <div class="legend-group examination">$/;"	function	line:309
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <span>Итоговая аттестация<\/span>$/;"	function	line:310
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="row">$/;"	function	line:318
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="col-sm-8">$/;"	function	line:319
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="inner-container">$/;"	function	line:320
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="inner-header f55f68">$/;"	function	line:321
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div class="row flex-middle">$/;"	function	line:322
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col">$/;"	function	line:323
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <p class="nomargin">$/;"	function	line:324
+small	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <small>(по промежуточной аттестации)<\/small>$/;"	function	line:327
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col text-right">$/;"	function	line:329
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <span class="d-block"><a href="#" class="white pushed-24"><u>Посмотреть все<\/u><\/a><\/span>$/;"	function	line:330
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="small-wrapper">$/;"	function	line:334
+table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <table class="table new-table table-2">$/;"	function	line:335
+thead	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <thead>$/;"	function	line:336
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:337
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <th scope="col">Дисциплина<\/th>$/;"	function	line:338
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <th scope="col"><\/th>$/;"	function	line:339
+tbody	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <tbody>$/;"	function	line:342
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:343
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Теория вероятностей и математическая статистика<\/td>$/;"	function	line:344
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td><a href="#" class="btn-red">Пересдать<\/a><\/td>$/;"	function	line:345
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:347
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Английский язык. Базовый курс для нелингвистов<\/td>$/;"	function	line:348
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td><a href="#" class="btn-red">Пересдать<\/a><\/td>$/;"	function	line:349
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <tr>$/;"	function	line:351
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td>Экономика общественного сектора<\/td>$/;"	function	line:352
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                      <td><a href="#" class="btn-red">Пересдать<\/a><\/td>$/;"	function	line:353
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="col-sm-4">$/;"	function	line:360
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <div class="inner-container balance-ctn">$/;"	function	line:361
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="inner-header abcd45">$/;"	function	line:362
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div class="row flex-middle">$/;"	function	line:363
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col">$/;"	function	line:364
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <p class="nomargin">$/;"	function	line:365
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <div class="col text-right">$/;"	function	line:369
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                    <span class="d-block"><a href="#" class="white"><u>Выписка<\/u><\/a><\/span>$/;"	function	line:370
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^              <div class="small-wrapper">$/;"	function	line:374
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                <div class="balance d-flex flex-middle">$/;"	function	line:375
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <p class="nomargin">$/;"	function	line:376
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^                  <a href="#" class="btn-green">Пополнить<\/a>$/;"	function	line:379
+footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <footer class="foo-main">$/;"	function	line:385
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="text-center">$/;"	function	line:386
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <p class="">$/;"	function	line:387
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <a href="#"><u>Политика в отношении обработки персональных данных<\/u><\/a><br>$/;"	function	line:390
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <a href="#"><u>Пользовательское соглашение<\/u><\/a>$/;"	function	line:391
+section	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <section class="popup-new">$/;"	function	line:397
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^    <div class="pop-wrapper">$/;"	function	line:398
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="pop-header">$/;"	function	line:399
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p class="pop-date">$/;"	function	line:400
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="d-flex ">$/;"	function	line:403
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="flex-fill">$/;"	function	line:404
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <p class="pop-title">$/;"	function	line:405
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="flex-fill text-right">$/;"	function	line:409
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <a href="#" class="pop-close"><img src="\/images\/pop-close.svg" \/><\/a>$/;"	function	line:410
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^      <div class="pop-content">$/;"	function	line:414
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:415
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:418
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:421
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:424
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:427
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:430
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <p>$/;"	function	line:433
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^        <div class="d-flex">$/;"	function	line:436
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="flex-fill">$/;"	function	line:437
+input	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <input type="checkbox" name="checkboxG4" id="checkboxG4" class="css-checkbox-red" \/><label for="checkboxG4" class="css-label-red">Уведомление прочитано, с условиями ознакомлен(а) и согласен(на).<\/label>$/;"	function	line:438
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^          <div class="flex-fill text-right">$/;"	function	line:440
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^            <a href="#" class="btn-red">Подтвердить<\/a>$/;"	function	line:441
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.3.1\/jquery.min.js"><\/script>$/;"	function	line:447
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.3\/umd\/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK\/l8WvCWPIPm49" crossorigin="anonymous"><\/script>$/;"	function	line:448
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:449
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/jquery-ui.min.js"><\/script>$/;"	function	line:450
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/popup.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:451
