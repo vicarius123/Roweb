@@ -1872,3 +1872,16 @@ label.css-label-red {
   left: 0;
   opacity:0.5
 }
+.panel-group span{
+  position:relative;
+}
+.panel-group span i{
+  position: absolute;
+  top: -18px;
+  font-style: normal;
+  font-size: 12px;
+  background: #F9C623;
+  color: #fff;
+  padding: 0px 7px;
+  border-radius: 3px;
+}
