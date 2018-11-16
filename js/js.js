@@ -7,12 +7,9 @@ $(document).ready(function(){
       firstDay: 1,
     });
   }
-
-
   $('i[data-toggle="tooltip"]') .tooltip({
     offset: '-40px, 6px'
   })
-
   $('.mob-burger').click(function(e){
     e.preventDefault();
     $(this).toggleClass('active')
@@ -20,32 +17,25 @@ $(document).ready(function(){
     $('.right-content').toggleClass('nonactive');
     $('body').toggleClass('overflow-y');
   })
-
   $('.menu-item').click(function(e){
-
     if($(this).next('.submenu').length > 0){
       console.log($(this).next('.submenu'))
       e.preventDefault();
     }
     $(this).next().slideToggle();
   })
-
   $('.close_b').click(function(){
     $('.more_op').fadeToggle();
-
     $('.footer *').removeAttr('style');
     $('.footer').removeAttr('style');
-
     $('body').css('transform','scale(1)');
     $('body').removeClass('black-white')
     $('body').removeClass('blue-black')
     $('body').removeAttr('style');
   });
-
   $('.eye-switcher').click(function(){
     $('.more_op').fadeToggle();
   })
-
   $('.black_c').click(function(e){
     e.preventDefault();
     $('body').removeClass('blue-black');
@@ -56,33 +46,45 @@ $(document).ready(function(){
     $('body').removeClass('black-white')
     $('body').addClass('blue-black');
   })
-
   $('.big').click(function(){
     $('body').css('transform','scale(1.1)');
-
   });
-
   $('.bigger').click(function(){
     $('body').css('transform','scale(1.3)');
-
   });
   $('.biggest').click(function(){
     $('body').css('transform','scale(1.5)');
   });
-
   $('.normal_c').click(function(e){
     e.preventDefault();
     $('body').removeClass('black-white')
     $('body').removeClass('blue-black')
   })
-
   _imgs = ['/images/bg-reg.jpg', '/images/Bg_1.jpg', '/images/Bg_2.jpg']
   function getRandomInt(min, max) {
     _result = Math.floor(Math.random() * (max - min)) + min;
     $('.main-reg').css('background-image', 'url('+_imgs[_result]+')')
   }
-
   getRandomInt(0, 3);
+  //Linegraph popup
+  $('.flex-linegraph .flex-fill').click(function(e){
+    e.preventDefault();
+
+    _this = $(this);
+    _top = _this.offset().top+75;
+    _left = _this.offset().left;
+    _w = $(document).width();
+    _ww = $('.linegraph-pop').width();
+    _www = (_ww+_left);
+    _target = $(e.target);
+    $('.linegraph-pop').show();
+
+    if(_www >= _w-100){
+      $('.linegraph-pop').css({top:_top, left: (_left-_ww/1.5)})
+    }else{
+      $('.linegraph-pop').css({top:_top, left: _left})
+    }
 
 
+  })
 })

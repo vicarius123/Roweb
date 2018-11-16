@@ -1628,8 +1628,7 @@ label.css-label-red {
   transition: transform .3s .3s ease, top .3s ease, -webkit-transform .3s .3s ease;
 }
 .left-panel.active{
-  -webkit-transform: translate(0px, 0px);
-  transform: translate(0px, 0px);
+  left:0%;
 }
 .right-content::before{
   content:'';
@@ -1869,7 +1868,6 @@ label.css-label-red {
 .logo-main-left{
   position: fixed;
   bottom: 0;
-  left: 0;
   opacity:0.5
 }
 .panel-group span{
@@ -1884,4 +1882,32 @@ label.css-label-red {
   color: #fff;
   padding: 0px 7px;
   border-radius: 3px;
+}
+.linegraph-pop{
+  position:absolute;
+  padding:15px 30px;
+  border-radius: 1px;
+  box-shadow: 2px 1px 7px 0 rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  z-index: 999;
+  display:none;
+}
+.linegraph-table thead th{
+  padding-top:0px;
+  padding-left:0px;
+  font-size: 14px;
+  font-family: 'Museo Cyrl 700';
+  border-bottom: solid 2px #f9c623;
+}
+.l__counter {
+  display: block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  background: #f9c623;
+  border-radius: 150px;
+  color: #fff;
+  line-height: 1.6;
+  font-family: 'Museo Cyrl 700';
+  font-size: 14px;
 }

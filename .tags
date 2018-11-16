@@ -806,7 +806,6 @@ input[type=checkbox].css-checkbox + label.css-label, .password-forgot a	/Volumes
 .soc-reg img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/resp.css	/^  .soc-reg img{$/;"	function	line:277
 .right-content	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/resp.css	/^  .right-content{$/;"	function	line:280
 .main-fluid	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/resp.css	/^  .main-fluid {$/;"	function	line:284
-getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:80
 html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^<html lang="en"><head>$/;"	function	line:2
 meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <meta charset="utf-8">$/;"	function	line:4
 meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:5
@@ -1740,386 +1739,6 @@ script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/info.html	/^  <script src="https:\
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/info.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:294
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/info.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/jquery-ui.min.js"><\/script>$/;"	function	line:295
 script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/info.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:296
-html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<html lang="ru">$/;"	function	line:2
-head	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<head>$/;"	function	line:3
-meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <meta charset="utf-8">$/;"	function	line:5
-meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:6
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/css\/bootstrap.min.css" integrity="sha384-MCw98\/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">$/;"	function	line:8
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/themes\/smoothness\/jquery-ui.css">$/;"	function	line:9
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="\/css\/styles.css">$/;"	function	line:10
-link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="\/css\/resp.css">$/;"	function	line:11
-title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <title>RoWeb - Main<\/title>$/;"	function	line:12
-body	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<body>$/;"	function	line:14
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <div class="more_op">$/;"	function	line:15
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="more_inn">$/;"	function	line:16
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="more_inn_txt">$/;"	function	line:17
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <p>Версия сайта<br>для слабовидящих<\/p>$/;"	function	line:18
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="font_type">$/;"	function	line:20
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <span>ШРИФТ:<\/span>$/;"	function	line:21
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="big">A<\/a>$/;"	function	line:22
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="bigger">A<\/a>$/;"	function	line:23
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="biggest">A<\/a>$/;"	function	line:24
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="color_site">$/;"	function	line:26
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <span>ЦВЕТ САЙТА:<\/span>$/;"	function	line:27
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="black_c">A<\/a>$/;"	function	line:28
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="blue_c">A<\/a>$/;"	function	line:29
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="normal_c">A<\/a>$/;"	function	line:30
-br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <br clear="all">$/;"	function	line:32
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#" class="close_b">$/;"	function	line:33
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <img src="\/images\/pop-close.svg">$/;"	function	line:34
-header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <header class="main-header main-fluid">$/;"	function	line:38
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="row flex-middle d-lg-flex d-none">$/;"	function	line:39
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col col-logo">$/;"	function	line:40
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="\/main.html"><img src="\/images\/logo-inner.svg" class="deskt-logo"><\/a>$/;"	function	line:41
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col col-header text-center">$/;"	function	line:43
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="header-nav">$/;"	function	line:44
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="contract-select">$/;"	function	line:45
-b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <b>ID<\/b>$/;"	function	line:46
-select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <select class="contract-selector">$/;"	function	line:47
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option selected>00000000000000001<\/option>$/;"	function	line:48
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option>00000000000000002<\/option>$/;"	function	line:49
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option>00000000000000003<\/option>$/;"	function	line:50
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="tool-nav">$/;"	function	line:52
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="profile.html"><img src="\/images\/profile-icn.svg" \/><\/a>$/;"	function	line:53
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span>1<\/span><\/a>$/;"	function	line:54
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="eye-switcher"><img src="\/images\/eye-blk.svg" \/><\/a>$/;"	function	line:55
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="lang-switcher-in">Eng<\/a>$/;"	function	line:56
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:59
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="flex-middle d-lg-none d-flex w-100">$/;"	function	line:63
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill">$/;"	function	line:64
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="mob-burger">$/;"	function	line:65
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:66
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:67
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:68
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill col-logo w-100 text-center">$/;"	function	line:71
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="\/main.html"><img src="\/images\/logo-inner.svg" class="main-logo"><\/a>$/;"	function	line:72
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill text-right">$/;"	function	line:74
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="tool-nav">$/;"	function	line:75
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span class="text-center">1<\/span><\/a>$/;"	function	line:76
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <div class="main-content ">$/;"	function	line:81
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="main-inner-ctn row">$/;"	function	line:82
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col left-panel">$/;"	function	line:83
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div>$/;"	function	line:84
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="inner-panel">$/;"	function	line:85
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:86
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="planning.html" class="menu-item">$/;"	function	line:87
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:88
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-1.svg" \/>$/;"	function	line:89
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Планирование<\/span>$/;"	function	line:91
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:94
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item active-menu">$/;"	function	line:95
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:96
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-2.svg" \/>$/;"	function	line:97
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Обучение<\/span>$/;"	function	line:99
-ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu" style="display:block;">$/;"	function	line:101
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:102
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="linegraph.html" class="active">Учебный план<\/a>$/;"	function	line:103
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:105
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="documents.html">Документы на практику<\/a>$/;"	function	line:106
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:108
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Библиотека<\/a>$/;"	function	line:109
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:111
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="template.html">Шаблоны<\/a>$/;"	function	line:112
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:114
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Лекции<\/a>$/;"	function	line:115
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:117
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Виртуальная аудитория для проведения групповых и индвивидуальных консультаций<\/a>$/;"	function	line:118
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:120
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Тест на реакцию<\/a>$/;"	function	line:121
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:125
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item">$/;"	function	line:126
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:127
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-3.svg" \/>$/;"	function	line:128
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Электронное<br \/>портфолио<\/span>$/;"	function	line:130
-ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu">$/;"	function	line:132
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:133
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="writting.html">Письменные работы<\/a>$/;"	function	line:134
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:136
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Практики<\/a>$/;"	function	line:137
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:139
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Устные виды занятий<\/a>$/;"	function	line:140
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:142
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Конспекты<\/a>$/;"	function	line:143
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:147
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item">$/;"	function	line:148
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:149
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-4.svg" \/>$/;"	function	line:150
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Заявки<\/span>$/;"	function	line:152
-ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu">$/;"	function	line:154
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:155
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="info.html">Справки<\/a>$/;"	function	line:156
-li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:158
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="academic_vacations.html">Академический отпуск<\/a>$/;"	function	line:159
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:164
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="payments.html" class="menu-item">$/;"	function	line:165
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:166
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-5.svg" \/>$/;"	function	line:167
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Оплата<\/span>$/;"	function	line:169
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:172
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#"  class="menu-item">$/;"	function	line:173
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:174
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-6.svg" \/>$/;"	function	line:175
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Поддержка<\/span>$/;"	function	line:177
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:180
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" style="color:#f55f68">$/;"	function	line:181
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:182
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-7.svg" \/>$/;"	function	line:183
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Приведи друга<\/span>$/;"	function	line:185
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="menu-mob d-block d-lg-none">$/;"	function	line:188
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:189
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="profile.html">$/;"	function	line:190
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:191
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/profile-icn.svg" \/>$/;"	function	line:192
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>Профиль<\/span>$/;"	function	line:194
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:197
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#">$/;"	function	line:198
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:199
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/change-icn-mob.svg" \/>$/;"	function	line:200
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>$/;"	function	line:202
-b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <b class="medium">ID<\/b>$/;"	function	line:203
-select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <select class="contract-selector">$/;"	function	line:204
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option selected="">00000000000000001<\/option>$/;"	function	line:205
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option>00000000000000002<\/option>$/;"	function	line:206
-option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option>00000000000000003<\/option>$/;"	function	line:207
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:212
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#" class="eye-switcher">$/;"	function	line:213
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:214
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/eye-blk.svg" \/>$/;"	function	line:215
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>Версия для слабовидящих<\/span>$/;"	function	line:217
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:220
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#">$/;"	function	line:221
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:222
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:227
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:228
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="logo-main-left">$/;"	function	line:232
-img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <img src="\/images\/logo-foo-left.svg" \/>$/;"	function	line:233
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col right-content">$/;"	function	line:237
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="breadcrumbs">$/;"	function	line:238
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <p>$/;"	function	line:239
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="row">$/;"	function	line:243
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="col-sm-12">$/;"	function	line:244
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="inner-container">$/;"	function	line:245
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="linegraph-main">$/;"	function	line:246
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="inner-header f9c623">$/;"	function	line:247
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="row flex-middle">$/;"	function	line:248
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="col">$/;"	function	line:249
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <p class="nomargin">$/;"	function	line:250
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="col text-right">$/;"	function	line:254
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <span class="d-block"><a href="#" class="white pushed-24"><u>На весь период обучения<\/u><\/a><\/span>$/;"	function	line:255
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="small-wrapper">$/;"	function	line:259
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="planning-selector linegraph-selector">$/;"	function	line:260
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="row align-items-center">$/;"	function	line:261
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-3">$/;"	function	line:262
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="course-prev">2 курс<\/a>$/;"	function	line:263
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-6 text-center">$/;"	function	line:265
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="current-course">3 <span>курс<\/span>  <small>(2017–2018)<\/small><\/span>$/;"	function	line:266
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-3 text-right">$/;"	function	line:268
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="course-next">4 курс<\/a>$/;"	function	line:269
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="linegraph-ctn">$/;"	function	line:273
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div id="linegraph-current"><\/div>$/;"	function	line:274
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex linegraph-month text-center align-items-center">$/;"	function	line:275
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:276
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:279
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:282
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:285
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill flex-vacation not-available">$/;"	function	line:288
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill flex-vacation not-available">$/;"	function	line:291
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:294
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:297
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:300
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:303
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:307
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1">$/;"	function	line:308
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Линейная алгебра<\/span>$/;"	function	line:309
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:310
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:312
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Английский язык. Базовый курс для нелингвистов.<\/span>$/;"	function	line:313
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>1<\/span>$/;"	function	line:314
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:316
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:317
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:319
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:320
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:322
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:323
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:325
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:326
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:329
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1">$/;"	function	line:330
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:331
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:333
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:334
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:336
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:337
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:339
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:340
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:342
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:343
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:345
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:346
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:349
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2">$/;"	function	line:350
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Философия<\/span>$/;"	function	line:351
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:352
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:354
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:355
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:357
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:358
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:359
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:361
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Микроэкономика<\/span>$/;"	function	line:362
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:363
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:365
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:366
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:368
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:369
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:370
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:373
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3">$/;"	function	line:374
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title change-icn">История<\/span>$/;"	function	line:375
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:376
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:378
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Социология<\/span>$/;"	function	line:379
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:380
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:382
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:383
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:384
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:386
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap change-icn">Английский для направления «Экономика»<\/span>$/;"	function	line:387
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:388
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:390
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:391
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:393
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:394
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:397
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3">$/;"	function	line:398
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:399
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:401
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:402
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:404
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:405
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:407
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:408
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:410
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap change-icn">Математический анализ<\/span>$/;"	function	line:411
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:412
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:414
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:415
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:418
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8">$/;"	function	line:419
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">История экономических учений<\/span>$/;"	function	line:420
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:421
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:423
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:424
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:426
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:427
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:429
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Методы оптимальных решений<\/span>$/;"	function	line:430
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:431
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:433
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:434
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:436
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:437
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:440
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8">$/;"	function	line:441
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:442
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:444
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:445
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:447
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:448
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:450
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Информатика<\/span>$/;"	function	line:451
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:452
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:454
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:455
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:457
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:458
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:461
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5">$/;"	function	line:462
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Правоведение<\/span>$/;"	function	line:463
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:464
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:466
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:467
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:469
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:470
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:472
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:473
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:475
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:476
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:477
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:479
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Физическая культура<\/span>$/;"	function	line:480
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:481
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:484
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:486
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill empty-date"><\/div>$/;"	function	line:487
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:488
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Элективные курсы по физической культуре<\/span>$/;"	function	line:489
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:490
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:492
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:493
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:495
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:496
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:498
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:499
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:501
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:502
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex linegraph-month text-center align-items-center">$/;"	function	line:505
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:506
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:509
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:512
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:515
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:518
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:521
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:524
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:527
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:530
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:533
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="linegraph-legend">$/;"	function	line:538
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex legen-ctn align-items-center">$/;"	function	line:539
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:540
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="btn-planning btn-yellow">Продвижение<\/a>$/;"	function	line:541
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:543
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-date">– текущая дата<\/span>$/;"	function	line:544
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:546
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-rub">– требует оплаты<\/span>$/;"	function	line:547
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:549
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-change">– смена дисциплины<\/span>$/;"	function	line:550
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:552
-span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-vacations">– каникулы<\/span>$/;"	function	line:553
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="small-wrapper">$/;"	function	line:559
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="linegraph-instructions">$/;"	function	line:560
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="inner-container small-wrapper">$/;"	function	line:561
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="instructions-title">$/;"	function	line:562
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="instructions-ctn">$/;"	function	line:565
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:566
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:567
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:570
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:573
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:576
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:580
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:581
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:584
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:587
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:590
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:594
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:595
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:598
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:601
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:604
-footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <footer class="foo-main d-none d-md-block">$/;"	function	line:615
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="text-center">$/;"	function	line:616
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <p class="">$/;"	function	line:617
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <a href="#"><u>Политика в отношении обработки персональных данных<\/u><\/a><br>$/;"	function	line:620
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <a href="#"><u>Пользовательское соглашение<\/u><\/a>$/;"	function	line:621
-footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <footer class="foo-main d-block d-sm-none">$/;"	function	line:627
-div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="text-center">$/;"	function	line:628
-p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <p class="">$/;"	function	line:629
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#"><u>Политика в отношении обработки персональных данных<\/u><\/a><br \/><br \/>$/;"	function	line:632
-a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#"><u>Пользовательское соглашение<\/u><\/a>$/;"	function	line:633
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.3.1\/jquery.min.js"><\/script>$/;"	function	line:636
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.3\/umd\/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK\/l8WvCWPIPm49" crossorigin="anonymous"><\/script>$/;"	function	line:637
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:638
-script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:639
 html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^<html lang="ru">$/;"	function	line:2
 head	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^<head>$/;"	function	line:3
 meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/main.html	/^  <meta charset="utf-8">$/;"	function	line:5
@@ -4651,3 +4270,401 @@ label.css-label-red	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^labe
 .left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.left-panel::-webkit-scrollbar, .left-panel::-moz-scrollbar{$/;"	function	line:1862
 .normal_c	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.normal_c{$/;"	function	line:1865
 .logo-main-left	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/css/styles.css	/^.logo-main-left{$/;"	function	line:1869
+getRandomInt	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/js/js.js	/^  function getRandomInt(min, max) {$/;"	function	line:64
+html	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<html lang="ru">$/;"	function	line:2
+head	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<head>$/;"	function	line:3
+meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <meta charset="utf-8">$/;"	function	line:5
+meta	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:6
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/css\/bootstrap.min.css" integrity="sha384-MCw98\/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">$/;"	function	line:8
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.1\/themes\/smoothness\/jquery-ui.css">$/;"	function	line:9
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="\/css\/styles.css">$/;"	function	line:10
+link	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <link rel="stylesheet" href="\/css\/resp.css">$/;"	function	line:11
+title	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <title>RoWeb - Main<\/title>$/;"	function	line:12
+body	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^<body>$/;"	function	line:14
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <div class="more_op">$/;"	function	line:15
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="more_inn">$/;"	function	line:16
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="more_inn_txt">$/;"	function	line:17
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <p>Версия сайта<br>для слабовидящих<\/p>$/;"	function	line:18
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="font_type">$/;"	function	line:20
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <span>ШРИФТ:<\/span>$/;"	function	line:21
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="big">A<\/a>$/;"	function	line:22
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="bigger">A<\/a>$/;"	function	line:23
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="biggest">A<\/a>$/;"	function	line:24
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="color_site">$/;"	function	line:26
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <span>ЦВЕТ САЙТА:<\/span>$/;"	function	line:27
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="black_c">A<\/a>$/;"	function	line:28
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="blue_c">A<\/a>$/;"	function	line:29
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="#" class="normal_c">A<\/a>$/;"	function	line:30
+br	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <br clear="all">$/;"	function	line:32
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#" class="close_b">$/;"	function	line:33
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <img src="\/images\/pop-close.svg">$/;"	function	line:34
+header	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <header class="main-header main-fluid">$/;"	function	line:38
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="row flex-middle d-lg-flex d-none">$/;"	function	line:39
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col col-logo">$/;"	function	line:40
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="\/main.html"><img src="\/images\/logo-inner.svg" class="deskt-logo"><\/a>$/;"	function	line:41
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col col-header text-center">$/;"	function	line:43
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="header-nav">$/;"	function	line:44
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="contract-select">$/;"	function	line:45
+b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <b>ID<\/b>$/;"	function	line:46
+select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <select class="contract-selector">$/;"	function	line:47
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option selected>00000000000000001<\/option>$/;"	function	line:48
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option>00000000000000002<\/option>$/;"	function	line:49
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <option>00000000000000003<\/option>$/;"	function	line:50
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="tool-nav">$/;"	function	line:52
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="profile.html"><img src="\/images\/profile-icn.svg" \/><\/a>$/;"	function	line:53
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span>1<\/span><\/a>$/;"	function	line:54
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="eye-switcher"><img src="\/images\/eye-blk.svg" \/><\/a>$/;"	function	line:55
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="lang-switcher-in">Eng<\/a>$/;"	function	line:56
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:59
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="flex-middle d-lg-none d-flex w-100">$/;"	function	line:63
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill">$/;"	function	line:64
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="mob-burger">$/;"	function	line:65
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:66
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:67
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div><\/div>$/;"	function	line:68
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill col-logo w-100 text-center">$/;"	function	line:71
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <a href="\/main.html"><img src="\/images\/logo-inner.svg" class="main-logo"><\/a>$/;"	function	line:72
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="flex-fill text-right">$/;"	function	line:74
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="tool-nav">$/;"	function	line:75
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <a href="#" class="notif-icon"><img src="\/images\/notifications-icn.svg" \/><span class="text-center">1<\/span><\/a>$/;"	function	line:76
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <div class="main-content ">$/;"	function	line:81
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="main-inner-ctn row">$/;"	function	line:82
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col left-panel">$/;"	function	line:83
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div>$/;"	function	line:84
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="inner-panel">$/;"	function	line:85
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:86
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="planning.html" class="menu-item">$/;"	function	line:87
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:88
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-1.svg" \/>$/;"	function	line:89
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Планирование<\/span>$/;"	function	line:91
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:94
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item active-menu">$/;"	function	line:95
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:96
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-2.svg" \/>$/;"	function	line:97
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Обучение<\/span>$/;"	function	line:99
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu" style="display:block;">$/;"	function	line:101
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:102
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="linegraph.html" class="active">Учебный план<\/a>$/;"	function	line:103
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:105
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="documents.html">Документы на практику<\/a>$/;"	function	line:106
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:108
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Библиотека<\/a>$/;"	function	line:109
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:111
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="template.html">Шаблоны<\/a>$/;"	function	line:112
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:114
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Лекции<\/a>$/;"	function	line:115
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:117
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Виртуальная аудитория для проведения групповых и индвивидуальных консультаций<\/a>$/;"	function	line:118
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:120
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Тест на реакцию<\/a>$/;"	function	line:121
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:125
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item">$/;"	function	line:126
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:127
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-3.svg" \/>$/;"	function	line:128
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Электронное<br \/>портфолио<\/span>$/;"	function	line:130
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu">$/;"	function	line:132
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:133
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="writting.html">Письменные работы<\/a>$/;"	function	line:134
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:136
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Практики<\/a>$/;"	function	line:137
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:139
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Устные виды занятий<\/a>$/;"	function	line:140
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:142
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="#">Конспекты<\/a>$/;"	function	line:143
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:147
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" class="menu-item">$/;"	function	line:148
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:149
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-4.svg" \/>$/;"	function	line:150
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Заявки<\/span>$/;"	function	line:152
+ul	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <ul class="submenu">$/;"	function	line:154
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:155
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="info.html">Справки<\/a>$/;"	function	line:156
+li	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <li>$/;"	function	line:158
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <a href="academic_vacations.html">Академический отпуск<\/a>$/;"	function	line:159
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:164
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="payments.html" class="menu-item">$/;"	function	line:165
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:166
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-5.svg" \/>$/;"	function	line:167
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Оплата<\/span>$/;"	function	line:169
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:172
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#"  class="menu-item">$/;"	function	line:173
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:174
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-6.svg" \/>$/;"	function	line:175
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Поддержка<\/span>$/;"	function	line:177
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="panel-group">$/;"	function	line:180
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <a href="#" style="color:#3aa9d1">$/;"	function	line:181
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div>$/;"	function	line:182
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <img src="\/images\/icon-7.svg" \/>$/;"	function	line:183
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <span>Приведи друга<\/span>$/;"	function	line:185
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="menu-mob d-block d-lg-none">$/;"	function	line:188
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:189
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="profile.html">$/;"	function	line:190
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:191
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/profile-icn.svg" \/>$/;"	function	line:192
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>Профиль<\/span>$/;"	function	line:194
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:197
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#">$/;"	function	line:198
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:199
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/change-icn-mob.svg" \/>$/;"	function	line:200
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>$/;"	function	line:202
+b	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <b class="medium">ID<\/b>$/;"	function	line:203
+select	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <select class="contract-selector">$/;"	function	line:204
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option selected="">00000000000000001<\/option>$/;"	function	line:205
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option>00000000000000002<\/option>$/;"	function	line:206
+option	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <option>00000000000000003<\/option>$/;"	function	line:207
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:212
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#" class="eye-switcher">$/;"	function	line:213
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:214
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <img src="\/images\/eye-blk.svg" \/>$/;"	function	line:215
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <span>Версия для слабовидящих<\/span>$/;"	function	line:217
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:220
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#">$/;"	function	line:221
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div>$/;"	function	line:222
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="panel-group">$/;"	function	line:227
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <a href="#" class="btn-red">Выйти<\/a>$/;"	function	line:228
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="logo-main-left">$/;"	function	line:232
+img	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <img src="\/images\/logo-foo-left.svg" \/>$/;"	function	line:233
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <div class="col right-content">$/;"	function	line:237
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="breadcrumbs">$/;"	function	line:238
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <p>$/;"	function	line:239
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <div class="row">$/;"	function	line:243
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="col-sm-12">$/;"	function	line:244
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <div class="inner-container">$/;"	function	line:245
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="linegraph-main">$/;"	function	line:246
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="inner-header f9c623">$/;"	function	line:247
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="row flex-middle">$/;"	function	line:248
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="col">$/;"	function	line:249
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <p class="nomargin">$/;"	function	line:250
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="col text-right">$/;"	function	line:254
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <span class="d-block"><a href="#" class="white pushed-24"><u>На весь период обучения<\/u><\/a><\/span>$/;"	function	line:255
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="small-wrapper">$/;"	function	line:259
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="planning-selector linegraph-selector">$/;"	function	line:260
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="row align-items-center">$/;"	function	line:261
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-3">$/;"	function	line:262
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="course-prev">2 курс<\/a>$/;"	function	line:263
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-6 text-center">$/;"	function	line:265
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="current-course">3 <span>курс<\/span>  <small>(2017–2018)<\/small><\/span>$/;"	function	line:266
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="col-3 text-right">$/;"	function	line:268
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="course-next">4 курс<\/a>$/;"	function	line:269
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="linegraph-ctn">$/;"	function	line:273
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div id="linegraph-current"><\/div>$/;"	function	line:274
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex linegraph-month text-center align-items-center">$/;"	function	line:275
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:276
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:279
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:282
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:285
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill flex-vacation not-available">$/;"	function	line:288
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill flex-vacation not-available">$/;"	function	line:291
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:294
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:297
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:300
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:303
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:307
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1">$/;"	function	line:308
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Линейная алгебра<\/span>$/;"	function	line:309
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:310
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:312
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Английский язык. Базовый курс для нелингвистов.<\/span>$/;"	function	line:313
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>1<\/span>$/;"	function	line:314
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:316
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:317
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:319
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:320
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:322
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:323
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:325
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:326
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:329
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1">$/;"	function	line:330
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:331
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:333
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:334
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:336
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:337
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:339
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:340
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:342
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:343
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:345
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:346
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:349
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2">$/;"	function	line:350
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Философия<\/span>$/;"	function	line:351
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:352
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:354
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>2<\/span>$/;"	function	line:355
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:357
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:358
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:359
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:361
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Микроэкономика<\/span>$/;"	function	line:362
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:363
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:365
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:366
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:368
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:369
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:370
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:373
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3">$/;"	function	line:374
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title change-icn">История<\/span>$/;"	function	line:375
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:376
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:378
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Социология<\/span>$/;"	function	line:379
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:380
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:382
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:383
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:384
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:386
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap change-icn">Английский для направления «Экономика»<\/span>$/;"	function	line:387
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:388
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:390
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:391
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-2 not-available">$/;"	function	line:393
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:394
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:397
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3">$/;"	function	line:398
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:399
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:401
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number"><i class="payment-icn" data-toggle="tooltip" title="ЗЕТ требует оплаты" data-placement="bottom"><\/i>3<\/span>$/;"	function	line:402
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:404
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:405
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:407
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:408
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:410
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap change-icn">Математический анализ<\/span>$/;"	function	line:411
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:412
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:414
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:415
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:418
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8">$/;"	function	line:419
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">История экономических учений<\/span>$/;"	function	line:420
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:421
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:423
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:424
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:426
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:427
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:429
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Методы оптимальных решений<\/span>$/;"	function	line:430
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:431
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:433
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:434
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:436
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:437
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:440
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8">$/;"	function	line:441
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:442
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:444
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:445
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:447
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:448
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:450
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Информатика<\/span>$/;"	function	line:451
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:452
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-8 not-available">$/;"	function	line:454
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:455
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-6 not-available">$/;"	function	line:457
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:458
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:461
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5">$/;"	function	line:462
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Правоведение<\/span>$/;"	function	line:463
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:464
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:466
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:467
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-5 not-available">$/;"	function	line:469
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:470
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:472
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:473
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-3 not-available">$/;"	function	line:475
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title course-ttl-r">экз<\/span>$/;"	function	line:476
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:477
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-1 not-available">$/;"	function	line:479
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title">Физическая культура<\/span>$/;"	function	line:480
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:481
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:484
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex flex-linegraph">$/;"	function	line:486
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill empty-date"><\/div>$/;"	function	line:487
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:488
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-title no-wrap">Элективные курсы по физической культуре<\/span>$/;"	function	line:489
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">1<\/span>$/;"	function	line:490
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:492
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">2<\/span>$/;"	function	line:493
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:495
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">3<\/span>$/;"	function	line:496
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:498
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">4<\/span>$/;"	function	line:499
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill course-7 not-available">$/;"	function	line:501
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="course-number">5<\/span>$/;"	function	line:502
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex linegraph-month text-center align-items-center">$/;"	function	line:505
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:506
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:509
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:512
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:515
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:518
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:521
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:524
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:527
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:530
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill not-available">$/;"	function	line:533
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="linegraph-legend">$/;"	function	line:538
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="d-flex legen-ctn align-items-center">$/;"	function	line:539
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:540
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <a href="#" class="btn-planning btn-yellow">Продвижение<\/a>$/;"	function	line:541
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:543
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-date">– текущая дата<\/span>$/;"	function	line:544
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:546
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-rub">– требует оплаты<\/span>$/;"	function	line:547
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:549
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-change">– смена дисциплины<\/span>$/;"	function	line:550
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="flex-fill">$/;"	function	line:552
+span	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <span class="lgnd-vacations">– каникулы<\/span>$/;"	function	line:553
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^              <div class="small-wrapper">$/;"	function	line:559
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                <div class="linegraph-instructions">$/;"	function	line:560
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                  <div class="inner-container small-wrapper">$/;"	function	line:561
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="instructions-title">$/;"	function	line:562
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                    <div class="instructions-ctn">$/;"	function	line:565
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:566
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:567
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:570
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:573
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:576
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:580
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:581
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:584
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:587
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:590
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                      <div class="row">$/;"	function	line:594
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:595
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:598
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:601
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^                        <div class="col-sm-3">$/;"	function	line:604
+footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <footer class="foo-main d-none d-md-block">$/;"	function	line:615
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <div class="text-center">$/;"	function	line:616
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <p class="">$/;"	function	line:617
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <a href="#"><u>Политика в отношении обработки персональных данных<\/u><\/a><br>$/;"	function	line:620
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <a href="#"><u>Пользовательское соглашение<\/u><\/a>$/;"	function	line:621
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <div class="linegraph-pop">$/;"	function	line:627
+table	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <table class="linegraph-table table">$/;"	function	line:628
+thead	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <thead>$/;"	function	line:629
+th	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <th colspan="3">$/;"	function	line:630
+tbody	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^        <tbody>$/;"	function	line:634
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <tr>$/;"	function	line:635
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><span class="l__counter">1<\/span><\/td>$/;"	function	line:636
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td>Штудирование.<br \/>Самостоятельная работа<\/td>$/;"	function	line:637
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><a href="#" class="btn-planning btn-yellow">Начать<\/a><\/td>$/;"	function	line:638
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <tr>$/;"	function	line:640
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><span class="l__counter">2<\/span><\/td>$/;"	function	line:641
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td>Штудирование.<br \/>Самостоятельная работа<\/td>$/;"	function	line:642
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><a href="#" class="btn-planning btn-yellow">Начать<\/a><\/td>$/;"	function	line:643
+tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^          <tr>$/;"	function	line:645
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><span class="l__counter">3<\/span><\/td>$/;"	function	line:646
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td>Штудирование.<br \/>Самостоятельная работа<\/td>$/;"	function	line:647
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^            <td><a href="#" class="btn-planning btn-yellow">Начать<\/a><\/td>$/;"	function	line:648
+footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <footer class="foo-main d-block d-sm-none">$/;"	function	line:653
+div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^    <div class="text-center">$/;"	function	line:654
+p	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <p class="">$/;"	function	line:655
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#"><u>Политика в отношении обработки персональных данных<\/u><\/a><br \/><br \/>$/;"	function	line:658
+a	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^      <a href="#"><u>Пользовательское соглашение<\/u><\/a>$/;"	function	line:659
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.3.1\/jquery.min.js"><\/script>$/;"	function	line:662
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.3\/umd\/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK\/l8WvCWPIPm49" crossorigin="anonymous"><\/script>$/;"	function	line:663
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.1.3\/js\/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW\/JmZQ5stwEULTy" crossorigin="anonymous"><\/script>$/;"	function	line:664
+script	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph.html	/^  <script src="\/js\/js.js"><\/script>$/;"	function	line:665

@@ -38,7 +38,7 @@
   }
   .left-panel {
     max-width: 50%;
-    transform: translate(-100%, 0px);
+    left: -100%;
     padding-left: 0;
   }
   .notif-icon > span{
