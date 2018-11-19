@@ -1537,7 +1537,7 @@ h2.normal{
 }
 .btn-yellow--empty{
   border-radius: 20px;
-  background-color: #fff;
+  background: transparent;
   -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
   color: #f9c623 !important;
@@ -1973,4 +1973,16 @@ label.css-label-red {
 }
 .bs-tooltip-auto[x-placement^=left] .arrow::before, .bs-tooltip-left .arrow::before{
   border-left-color: #fff !important;
+}
+.linegraph-table--mob{
+  margin-top:15px;
+}
+.linegraph-table--mob thead th{
+  font-size:20px !important;
+}
+.linegraph-table--mob tbody td{
+  vertical-align: top;
+}
+.linegraph-table--mob tbody td:first-child{
+  padding-right: 0px;
 }
