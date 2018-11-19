@@ -4829,7 +4829,7 @@ tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                 
 td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                      <td><img src="\/images\/line--check.svg" \/><\/td>$/;"	function	line:236
 td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                      <td>Штудирование.<br \/>Самостоятельная работа<br \/><br \/><a href="#" class="btn-green">Пройти снова<\/a><\/td>$/;"	function	line:237
 tr	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                    <tr>$/;"	function	line:239
-td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                      <td><span class="l__counter">2<\/span><\/td>$/;"	function	line:240
+td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                      <td><span class="l__counter">4<\/span><\/td>$/;"	function	line:240
 td	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^                      <td>Штудирование.<br \/>Самостоятельная работа<br \/><br \/><a href="#" class="btn-yellow--empty">Продолжить<\/a><\/td>$/;"	function	line:241
 footer	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^        <footer class="foo-main d-none d-md-block">$/;"	function	line:250
 div	/Volumes/XAMPP/xamppfiles/htdocs/Roweb/linegraph-pop.html	/^          <div class="text-center">$/;"	function	line:251
