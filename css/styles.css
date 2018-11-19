@@ -1249,7 +1249,7 @@ section.popup-new {
   opacity: 1;
 }
 .tooltip-inner {
-  max-width: 200px;
+  max-width: 100%;
   text-align: center;
   background-color: #ffffff;
   border-radius: 0px;
@@ -1258,6 +1258,7 @@ section.popup-new {
   font-size: 15px;
   font-family: 'Museo Sans Cyrl 300';
   padding: 15px;
+  box-shadow: 2px 1px 7px 0 rgba(0, 0, 0, 0.5);
 }
 .bs-tooltip-auto[x-placement^=bottom] .arrow::before, .bs-tooltip-bottom .arrow::before{
   border-bottom-color: #fff;
@@ -1533,6 +1534,22 @@ h2.normal{
 }
 .add-table {
   margin-left: -8px;
+}
+.btn-yellow--empty{
+  border-radius: 20px;
+  background-color: #fff;
+  -webkit-box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 9px 0 rgba(0, 0, 0, 0.15);
+  color: #f9c623 !important;
+  font-size: 13px;
+  border: 2px solid #f9c623 !important;
+  font-family: 'Museo Sans Cyrl 500';
+  padding: 9px 15px;
+  text-decoration: none !important;
+  min-width: 118px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
 }
 .btn-yellow {
   border-radius: 20px;
@@ -1889,7 +1906,7 @@ label.css-label-red {
   border-radius: 1px;
   box-shadow: 2px 1px 7px 0 rgba(0, 0, 0, 0.5);
   background-color: #ffffff;
-  z-index: 999;
+  z-index: 98;
   display:none;
 }
 .linegraph-table thead th{
@@ -1910,4 +1927,50 @@ label.css-label-red {
   line-height: 1.6;
   font-family: 'Museo Cyrl 700';
   font-size: 14px;
+}
+.flex-linegraph > .flex-fill.active{
+  z-index:98;
+}
+.bg-linegraph--popup.active{
+  display:block;
+}
+.bg-linegraph--popup{
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 97;
+  pointer-events: none;
+  display:none;
+}
+.linegraph-pop.right::before{
+  left:85%;
+}
+.linegraph-pop::before{
+  content: '';
+  background: url(/images/arrow__l.svg)no-repeat top center;
+  height: 16px;
+  width: 41px;
+  display: block;
+  position: absolute;
+  top: -16px;
+  left: 30px;
+  z-index: 97;
+}
+.bs-tooltip-auto[x-placement^=top] .arrow::before, .bs-tooltip-top .arrow::before{
+  border-top-color: #fff !important;
+}
+.linegraph-table{
+  text-align: left;
+}
+.linegraph-table td{
+  vertical-align: middle
+}
+.bs-tooltip-auto[x-placement^=right] .arrow::before, .bs-tooltip-right .arrow::before{
+  border-right-color: #fff !important;
+}
+.bs-tooltip-auto[x-placement^=left] .arrow::before, .bs-tooltip-left .arrow::before{
+  border-left-color: #fff !important;
 }
